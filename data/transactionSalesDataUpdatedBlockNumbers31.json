@@ -2,1678 +2,577 @@
   "0":{
     "sales":{
       "transaction":{
-        "id":"0x0b35ef82dea82218b34093b022b91ad0c2961f595030b65c24d1fc0cc861e6fd",
+        "id":"0xe3de42dd2a51bec2eafe300a2d19363653079e6b9ddedbae77a639fbbc22617d",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x948d521c3fe615f2f6a17533e7632c679b6dbba9"
+              "id":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
             },
             "receiverAddress":{
-              "id":"0x51768b7ca1f0e82c68c240b981f7433b65fd5629"
+              "id":"0xac37ccb7ae873555eb01c74cb713d40d1bec7f45"
             },
-            "amount":"0.025",
+            "amount":"0.4472",
             "token":{
               "collection":{
-                "symbol":"WAYC",
-                "name":"Women Ape Yacht Club"
+                "symbol":"HWMC",
+                "name":"Hydro Whales Mining Club"
               }
             }
           }
         ],
-        "transactionFrom":"0x51768b7ca1f0e82c68c240b981f7433b65fd5629"
+        "transactionFrom":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
       },
       "platform":"LooksRare",
-      "amount":"0.025",
+      "amount":"0.4472",
       "currency":{
         "name":"Wrapped Ether",
         "symbol":"WETH"
       },
-      "timestamp":1676979995,
-      "blockNumber":16676668
+      "timestamp":1677252323,
+      "blockNumber":16699068
     }
   },
   "1":{
     "sales":{
       "transaction":{
-        "id":"0x93320d8a2beeb8c6302b9e2a60080e4a53f1b6656f1b5ad0f3d883485a444e30",
+        "id":"0x22bda390c1701bf62ae5acd1e072b8a1cf658f35dc92153d96df7181354d43cc",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f"
+              "id":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
             },
             "receiverAddress":{
-              "id":"0x22340b39dfd7bb565507a00e7b43acf511a30a78"
+              "id":"0x8918657b5a9f2b8789a9c976e7239a3a4a7d16d9"
             },
-            "amount":"0.007040816326530612244897959183673469",
+            "amount":"0.4473",
             "token":{
               "collection":{
-                "symbol":"Captainz",
-                "name":"Captainz"
+                "symbol":"HWMC",
+                "name":"Hydro Whales Mining Club"
               }
             }
           }
         ],
-        "transactionFrom":"0x22340b39dfd7bb565507a00e7b43acf511a30a78"
+        "transactionFrom":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
       },
-      "platform":"X2Y2",
-      "amount":"0.007040816326530612244897959183673469",
+      "platform":"LooksRare",
+      "amount":"0.4473",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676980019,
-      "blockNumber":16676670
+      "timestamp":1677252395,
+      "blockNumber":16699074
     }
   },
   "2":{
     "sales":{
       "transaction":{
-        "id":"0xdd3133e130ada315884f7bca2624dfbdc37884bd6b00a198da189061cb2145e5",
+        "id":"0x2fea568e9ca894031dfceeaad415d0000bf27c80ec5bf90e88d70df3b08955c4",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xff53bbd8bc335ee5f5b60dcb76efb2f59964b1a5"
+              "id":"0x0157c51ebd055398c492df0760412ebc36767b2d"
             },
             "receiverAddress":{
-              "id":"0xe9b4a4e9237541461b3ca4d058631fdd52fde12c"
+              "id":"0xdd47395da633881bdba28edd1abd75be68106ac2"
             },
-            "amount":"0.15",
+            "amount":"1.224489795918367346938775510204082",
             "token":{
               "collection":{
-                "symbol":"SROG",
-                "name":"Space Riders OG Pass"
+                "symbol":"GU",
+                "name":"Genuine Undead"
               }
             }
           }
         ],
-        "transactionFrom":"0xe9b4a4e9237541461b3ca4d058631fdd52fde12c"
+        "transactionFrom":"0xdd47395da633881bdba28edd1abd75be68106ac2"
       },
-      "platform":"LooksRare",
-      "amount":"0.15",
+      "platform":"X2Y2",
+      "amount":"1.224489795918367346938775510204082",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1676980415,
-      "blockNumber":16676703
+      "timestamp":1677252431,
+      "blockNumber":16699077
     }
   },
   "3":{
     "sales":{
       "transaction":{
-        "id":"0x0fbaf9738897b6d3c5b762cdf4d78b28bbb712543d674ed41f8ea4ff31d3ff17",
+        "id":"0xa09cb03c000aca3c38bf3086d2a2754967d5dd98e3b24583e89ded04118b0426",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
+              "id":"0xbc78028430c2d19e7100694504573dc01f04b8bc"
             },
             "receiverAddress":{
-              "id":"0x38315bd0ad9bec46375910eb94d190d54ffc0b64"
+              "id":"0x7f58041dda884089de2b5dfd2cac56c146dd9773"
             },
-            "amount":"0.1243163265306122448979591836734694",
+            "amount":"0.9183673469387755102040816326530612",
             "token":{
               "collection":{
-                "symbol":"3L",
-                "name":"3Landers"
+                "symbol":"LIGHT",
+                "name":"Refik Anadol"
               }
             }
           }
         ],
-        "transactionFrom":"0x38315bd0ad9bec46375910eb94d190d54ffc0b64"
+        "transactionFrom":"0x7f58041dda884089de2b5dfd2cac56c146dd9773"
       },
       "platform":"X2Y2",
-      "amount":"0.1243163265306122448979591836734694",
+      "amount":"0.9183673469387755102040816326530612",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676980595,
-      "blockNumber":16676717
+      "timestamp":1677252491,
+      "blockNumber":16699082
     }
   },
   "4":{
     "sales":{
       "transaction":{
-        "id":"0x67ace66a747d9f16a9105f2d73c879da5482334a46c32db5bc1bf032ac1fdf7e",
+        "id":"0x8c365a9e0f07896058231fc7fbdcf5b80a17635e31448e248b2a401c3b39d352",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x4920f5333fdff19f2d1a60a9369bb0777294c285"
+              "id":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
             },
             "receiverAddress":{
-              "id":"0x2c953c41bf9df34c44ed7ffb74f95dd671bd673e"
+              "id":"0xac37ccb7ae873555eb01c74cb713d40d1bec7f45"
             },
-            "amount":"0.0009387755102040816326530612244897959",
+            "amount":"0.48",
             "token":{
               "collection":{
-                "symbol":"ONI",
-                "name":"Onitama"
+                "symbol":"HWMC",
+                "name":"Hydro Whales Mining Club"
               }
             }
           }
         ],
-        "transactionFrom":"0x2c953c41bf9df34c44ed7ffb74f95dd671bd673e"
+        "transactionFrom":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
       },
-      "platform":"X2Y2",
-      "amount":"0.0009387755102040816326530612244897959",
+      "platform":"LooksRare",
+      "amount":"0.48",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676980679,
-      "blockNumber":16676724
+      "timestamp":1677252551,
+      "blockNumber":16699087
     }
   },
   "5":{
     "sales":{
       "transaction":{
-        "id":"0xf7dce8b330c176b9a06500cda8453c8eeccfc7020b6d2aca8cdaf173f3f73ebf",
+        "id":"0xd1194e921f4ba2406fd8c065700e7c3bc2e5e1b8b394b683450b6203b6b9f6cd",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
+              "id":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
             },
             "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
+              "id":"0xac37ccb7ae873555eb01c74cb713d40d1bec7f45"
             },
-            "amount":"0.01917964285714285714285714285714286",
+            "amount":"0.489",
             "token":{
               "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
+                "symbol":"HWMC",
+                "name":"Hydro Whales Mining Club"
               }
             }
           }
         ],
-        "transactionFrom":"0x88525d643d112a50dd60223a0b0c9297db37060f"
+        "transactionFrom":"0xa1b8ccad8fbbd508f31974fec72fad675d21f3ce"
       },
-      "platform":"X2Y2",
-      "amount":"0.01917964285714285714285714285714286",
+      "platform":"LooksRare",
+      "amount":"0.489",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676980847,
-      "blockNumber":16676738
+      "timestamp":1677252671,
+      "blockNumber":16699097
     }
   },
   "6":{
     "sales":{
       "transaction":{
-        "id":"0xf7dce8b330c176b9a06500cda8453c8eeccfc7020b6d2aca8cdaf173f3f73ebf",
+        "id":"0x2120431050be4eb0fca75ebda287b105f4f1091f495a14011ef699b6b8255544",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
+              "id":"0xe9a487851f9f8a05f6ca5040e6c75279750a9262"
             },
             "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
+              "id":"0x630a035be662260db9fe33cd58afd71f7e8f4fa3"
             },
-            "amount":"0.01917964285714285714285714285714286",
+            "amount":"0.006091836734693877551020408163265306",
             "token":{
               "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
+                "symbol":"BASEINTRODUCED",
+                "name":"Base, Introduced"
               }
             }
           }
         ],
-        "transactionFrom":"0x88525d643d112a50dd60223a0b0c9297db37060f"
+        "transactionFrom":"0x630a035be662260db9fe33cd58afd71f7e8f4fa3"
       },
       "platform":"X2Y2",
-      "amount":"0.01917964285714285714285714285714286",
+      "amount":"0.006091836734693877551020408163265306",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676980847,
-      "blockNumber":16676738
+      "timestamp":1677252827,
+      "blockNumber":16699110
     }
   },
   "7":{
     "sales":{
       "transaction":{
-        "id":"0xf7dce8b330c176b9a06500cda8453c8eeccfc7020b6d2aca8cdaf173f3f73ebf",
+        "id":"0x7ea5ef9be2e93401fc0a0370127042fff5d6b4bb2ff4ea8c1bcb2f8a90c215a4",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
+              "id":"0x467347a88d856e088a5684c1dec0de7b8f457c4b"
             },
             "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
+              "id":"0x94ccb3290e61617233fb818561e1c5ed23a49a60"
             },
-            "amount":"0.01917964285714285714285714285714286",
+            "amount":"0.9081632653061224489795918367346939",
             "token":{
               "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9f20f89daf274d34b49868ca8ec147a20a7f7e56"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.00958982142857142857142857142857143",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x88525d643d112a50dd60223a0b0c9297db37060f"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"SEELIES",
-                "name":"Seelies"
+                "symbol":"Kubz",
+                "name":"Kubz"
               }
             }
           }
         ],
-        "transactionFrom":"0x88525d643d112a50dd60223a0b0c9297db37060f"
+        "transactionFrom":"0x94ccb3290e61617233fb818561e1c5ed23a49a60"
       },
       "platform":"X2Y2",
-      "amount":"0.01917964285714285714285714285714286",
+      "amount":"0.9081632653061224489795918367346939",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676980847,
-      "blockNumber":16676738
+      "timestamp":1677252863,
+      "blockNumber":16699113
     }
   },
   "8":{
     "sales":{
       "transaction":{
-        "id":"0xfcdc4b9bc9df783287a0501bf6d08073e862c6463254df28d62bcdd8d091e280",
+        "id":"0x00f725506eae08fc8e3625015235cd6c536a2af56cb3802d2af83b7c44595f77",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x96508b857164105ca8c8f1d6a0f119bade9360a7"
+              "id":"0xbc78028430c2d19e7100694504573dc01f04b8bc"
             },
             "receiverAddress":{
-              "id":"0x2c953c41bf9df34c44ed7ffb74f95dd671bd673e"
+              "id":"0xc3a7bf2c9d9d04a789ca41f160bfdbbd73b5dbd5"
             },
-            "amount":"0.001929081632653061224489795918367347",
+            "amount":"0.1224489795918367346938775510204082",
             "token":{
               "collection":{
-                "symbol":null,
-                "name":null
+                "symbol":"BLOCKS",
+                "name":"Art Blocks"
               }
             }
           }
         ],
-        "transactionFrom":"0x2c953c41bf9df34c44ed7ffb74f95dd671bd673e"
+        "transactionFrom":"0xc3a7bf2c9d9d04a789ca41f160bfdbbd73b5dbd5"
       },
       "platform":"X2Y2",
-      "amount":"0.001929081632653061224489795918367347",
+      "amount":"0.1224489795918367346938775510204082",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676980967,
-      "blockNumber":16676748
+      "timestamp":1677252911,
+      "blockNumber":16699117
     }
   },
   "9":{
     "sales":{
       "transaction":{
-        "id":"0x762096ada40077921906fbc6e3da4d83613237f6f19efc4448e5300848585aab",
+        "id":"0xc25b89a3696a50b2b5b5c39a5e18599b8aefeff9007dea6f5345b412d970dc43",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f"
+              "id":"0x73d30ba3dc4ffd17c28cc2d75d12e50df98f29cf"
             },
             "receiverAddress":{
-              "id":"0x424c8d183991492d4915e46de6951c8446773660"
+              "id":"0x7ad38be4f06615612dedc523d898650a3454125a"
             },
-            "amount":"0.007040816326530612244897959183673469",
+            "amount":"0.5204081632755102040816326530612245",
             "token":{
               "collection":{
-                "symbol":"Captainz",
-                "name":"Captainz"
+                "symbol":"MMXZE",
+                "name":"Modern Muse: Marilyn Monroe x Zeblocks Mint Pass"
               }
             }
           }
         ],
-        "transactionFrom":"0x424c8d183991492d4915e46de6951c8446773660"
+        "transactionFrom":"0x7ad38be4f06615612dedc523d898650a3454125a"
       },
       "platform":"X2Y2",
-      "amount":"0.007040816326530612244897959183673469",
+      "amount":"0.5204081632755102040816326530612245",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676981123,
-      "blockNumber":16676760
+      "timestamp":1677252995,
+      "blockNumber":16699124
     }
   },
   "10":{
     "sales":{
       "transaction":{
-        "id":"0xe1ae3288e165154f6f53bc950a9aedbce2dd24f0d09c2c6a2d0996bd2f54eedf",
+        "id":"0xa51ad29271fe29b4801bb40154b2b40a9c69fdbf1a39346e5bfc0e79ee157d69",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xe9a1ff768885ae2e32b3787215072b580c1bce63"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
             "receiverAddress":{
-              "id":"0x39974e437255c4a2f888ca4f18109ea5fa8ea74e"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
-            "amount":"15.91836734693877551020408163265306",
+            "amount":"57.51709183673469387755102040816327",
             "token":{
               "collection":{
-                "symbol":"AZUKI",
-                "name":"Azuki"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0x39974e437255c4a2f888ca4f18109ea5fa8ea74e"
+        "transactionFrom":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
       },
       "platform":"X2Y2",
-      "amount":"15.91836734693877551020408163265306",
+      "amount":"57.51709183673469387755102040816327",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676981567,
-      "blockNumber":16676797
+      "timestamp":1677253139,
+      "blockNumber":16699136
     }
   },
   "11":{
     "sales":{
       "transaction":{
-        "id":"0x92e7fac552fe8e8043e75ceb7a65eb766ede19ef1950fb82556b2a8c70403f36",
+        "id":"0x810c952520ff38c3719c116b41c8dc81f56327976cb9c88bd321899bb24b7aa5",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x1a3edd172cc92f6efa07f870fdbc85cad29890ec"
+              "id":"0x44a7cd2e415c67a6e43bc06397b22495e02502e4"
             },
             "receiverAddress":{
-              "id":"0xd722755aa3d8b2e9521209ee5014d0e446b82ff5"
+              "id":"0x306a9ced7ec13c32fb26424f7fbc82d34928d4b9"
             },
-            "amount":"1.601499899999999744",
+            "amount":"1.71",
             "token":{
               "collection":{
-                "symbol":"0N1",
-                "name":"0N1 Force"
+                "symbol":"OTHR",
+                "name":"Otherdeed"
               }
             }
           }
         ],
-        "transactionFrom":"0x1a3edd172cc92f6efa07f870fdbc85cad29890ec"
+        "transactionFrom":"0x44a7cd2e415c67a6e43bc06397b22495e02502e4"
       },
       "platform":"LooksRare",
-      "amount":"1.601499899999999744",
+      "amount":"1.71",
       "currency":{
         "name":"Wrapped Ether",
         "symbol":"WETH"
       },
-      "timestamp":1676981987,
-      "blockNumber":16676832
+      "timestamp":1677253631,
+      "blockNumber":16699176
     }
   },
   "12":{
     "sales":{
       "transaction":{
-        "id":"0x6e28a9a46ad1663f0a9a5f8d9ef37ccea447d278b5a04263bc85434a545d6f68",
+        "id":"0x0a1d1d857885befc30354d8cce8f79c952ad18fa9cb2c6a70995cef06816cbfe",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xace4585b8e13a1b9fe044e900c280f367a2e8cf7"
+              "id":"0x61db9a6b193611cb41e59f95a0c8421049291748"
             },
             "receiverAddress":{
-              "id":"0xca02bf9e6cd9ba2730fd27dc2a4cfb859d64210a"
+              "id":"0xde13e3ccff8e9fc487659cd08d2551c24c9e959b"
             },
-            "amount":"3.163265306122448979591836734693878",
+            "amount":"0.1187908163265306122448979591836735",
             "token":{
               "collection":{
-                "symbol":"INIT",
-                "name":"NFTinit Desktop App"
+                "symbol":"CARAVAGGIO",
+                "name":"Caravaggio Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0xca02bf9e6cd9ba2730fd27dc2a4cfb859d64210a"
+        "transactionFrom":"0xde13e3ccff8e9fc487659cd08d2551c24c9e959b"
       },
       "platform":"X2Y2",
-      "amount":"3.163265306122448979591836734693878",
+      "amount":"0.1187908163265306122448979591836735",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676982047,
-      "blockNumber":16676837
+      "timestamp":1677253691,
+      "blockNumber":16699181
     }
   },
   "13":{
     "sales":{
       "transaction":{
-        "id":"0xdb05bc10023f37ab251a1359dfa71e4347628d2110192ef9ac0e5732c56fa708",
+        "id":"0xbbc944142a442b96317c7e2fe209733c0910ee71e066eaa1b331303645904945",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xace4585b8e13a1b9fe044e900c280f367a2e8cf7"
+              "id":"0x61db9a6b193611cb41e59f95a0c8421049291748"
             },
             "receiverAddress":{
-              "id":"0xca02bf9e6cd9ba2730fd27dc2a4cfb859d64210a"
+              "id":"0x893564a220a290c00b6695228db773f6d4ac66ab"
             },
-            "amount":"3.163265306122448979591836734693878",
+            "amount":"0.1167602040816326530612244897959184",
             "token":{
               "collection":{
-                "symbol":"INIT",
-                "name":"NFTinit Desktop App"
+                "symbol":"CARAVAGGIO",
+                "name":"Caravaggio Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0xca02bf9e6cd9ba2730fd27dc2a4cfb859d64210a"
+        "transactionFrom":"0x893564a220a290c00b6695228db773f6d4ac66ab"
       },
       "platform":"X2Y2",
-      "amount":"3.163265306122448979591836734693878",
+      "amount":"0.1167602040816326530612244897959184",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676982095,
-      "blockNumber":16676841
+      "timestamp":1677253775,
+      "blockNumber":16699188
     }
   },
   "14":{
     "sales":{
       "transaction":{
-        "id":"0x88449a72e2bc85ff089ca540157f182f9427bb680e4d27586e5d3489baf5fdf7",
+        "id":"0xb2ca9482b20b167ee60329c5274535e60b57309ad98f530cbd892b18e06c3ceb",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xca1e96cbb2fdede6cf61b1ac1e1a4eb9d8f0cfde"
+              "id":"0xbc78028430c2d19e7100694504573dc01f04b8bc"
             },
             "receiverAddress":{
-              "id":"0x42ebba25ba063d78839913005e628dbc03ae4212"
+              "id":"0xc3a7bf2c9d9d04a789ca41f160bfdbbd73b5dbd5"
             },
-            "amount":"0.06954846938775510204081632653061224",
+            "amount":"1.020408163265306122448979591836735",
             "token":{
               "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
+                "symbol":"BLOCKS",
+                "name":"Art Blocks"
               }
             }
           }
         ],
-        "transactionFrom":"0x42ebba25ba063d78839913005e628dbc03ae4212"
+        "transactionFrom":"0xc3a7bf2c9d9d04a789ca41f160bfdbbd73b5dbd5"
       },
       "platform":"X2Y2",
-      "amount":"0.06954846938775510204081632653061224",
+      "amount":"1.020408163265306122448979591836735",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676982383,
-      "blockNumber":16676865
+      "timestamp":1677254051,
+      "blockNumber":16699211
     }
   },
   "15":{
     "sales":{
       "transaction":{
-        "id":"0x1a974d98b8538c27f8ebd944d309e7808341ecc7f8cd840a80aa3606fc084799",
+        "id":"0xac5c7ea907851e6b3db461177a7ab7282f0f55574828e96503cf9d5154e4ecd0",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x48f5fc195c492930c98cdf07c7e7b0496ec9eaa6"
+              "id":"0x235e14f5cde92a098d9b38a3f3ac07e7058cd40c"
             },
             "receiverAddress":{
-              "id":"0xd721e00c0812347b1d3803629bc3a12a4be37709"
+              "id":"0x84bebb245eb97abb8ef66c8c37f6a97bf999d2b0"
             },
-            "amount":"0.01015306122448979591836734693877551",
+            "amount":"0.085",
             "token":{
               "collection":{
-                "symbol":"BE",
-                "name":"Block Explorer"
+                "symbol":"SLOTIE",
+                "name":"Slotie"
               }
             }
           }
         ],
-        "transactionFrom":"0xd721e00c0812347b1d3803629bc3a12a4be37709"
+        "transactionFrom":"0x84bebb245eb97abb8ef66c8c37f6a97bf999d2b0"
       },
-      "platform":"X2Y2",
-      "amount":"0.01015306122448979591836734693877551",
+      "platform":"LooksRare",
+      "amount":"0.085",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676982635,
-      "blockNumber":16676886
+      "timestamp":1677254255,
+      "blockNumber":16699228
     }
   },
   "16":{
     "sales":{
       "transaction":{
-        "id":"0xaf3e91bc2928ed6dca08cd9f8fcd1ebc79cf8c9481eb3cfe372d4b462cf59311",
+        "id":"0x1ba1d5fd3f67d4b8a7b4f8437d1ecbd9bf0064428e8a2ce8cdb4947bc9186a92",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
+              "id":"0x61db9a6b193611cb41e59f95a0c8421049291748"
             },
             "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
+              "id":"0xf9f53d9273377369f13fe0b10b28552b604b17ae"
             },
-            "amount":"0",
+            "amount":"0.1015306122448979591836734693877551",
             "token":{
               "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4dd48b2fe0afcf6a12395f40e99a55fd2374ad09"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x523ca94b184898c4fd393dbe18883c742677d5eb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.0051",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0.00255",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x523ca94b184898c4fd393dbe18883c742677d5eb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.00255",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe505a60e001fa64dfd7b0a95159f19ee0efec336"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
+                "symbol":"CARAVAGGIO",
+                "name":"Caravaggio Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0x6428d1cadd917db40b5289a296f89f25d969c496"
+        "transactionFrom":"0xf9f53d9273377369f13fe0b10b28552b604b17ae"
       },
-      "platform":"LooksRare",
-      "amount":"0.0051",
+      "platform":"X2Y2",
+      "amount":"0.1015306122448979591836734693877551",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1676982647,
-      "blockNumber":16676887
+      "timestamp":1677254327,
+      "blockNumber":16699234
     }
   },
   "17":{
     "sales":{
       "transaction":{
-        "id":"0xaf3e91bc2928ed6dca08cd9f8fcd1ebc79cf8c9481eb3cfe372d4b462cf59311",
+        "id":"0xfee2573c1106bfdeda2bd9360de00ecd36da3db76fd536f59abd3fa9de24e9e7",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
+              "id":"0xdbf67f9d4c80e9cd0b60512b19ed9a2def8d9b04"
             },
             "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
+              "id":"0x338fd2112a6f306a390bde5304660903a7b12ef9"
             },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4dd48b2fe0afcf6a12395f40e99a55fd2374ad09"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x523ca94b184898c4fd393dbe18883c742677d5eb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.0051",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0.00255",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x523ca94b184898c4fd393dbe18883c742677d5eb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.00255",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe505a60e001fa64dfd7b0a95159f19ee0efec336"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x484a85bd6bce83c30b7680e1822e4ddfd335e481"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"FEED",
-                "name":"100 Meals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x6428d1cadd917db40b5289a296f89f25d969c496"
-      },
-      "platform":"LooksRare",
-      "amount":"0.0051",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676982647,
-      "blockNumber":16676887
-    }
-  },
-  "18":{
-    "sales":{
-      "transaction":{
-        "id":"0xd33349ca4964c5a933c65323cde323c03da2d22d17ea6856ab3efee829053983",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x01b8c4d93ce8a1d39571a8cf15eaeb4e3f9ab21d"
-            },
-            "receiverAddress":{
-              "id":"0x7ff22d8fa27523b72fb53aebb3c391d1bd06b9cc"
-            },
-            "amount":"0.2924081632653061224489795918367347",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x7ff22d8fa27523b72fb53aebb3c391d1bd06b9cc"
-      },
-      "platform":"X2Y2",
-      "amount":"0.2924081632653061224489795918367347",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676982659,
-      "blockNumber":16676888
-    }
-  },
-  "19":{
-    "sales":{
-      "transaction":{
-        "id":"0x208bf8ed406974f8d4ae8e166e69cfc3c559d902829d61e88c23bb2873215862",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x792c061d53584274f8c215d8feb836fcac9a6317"
-            },
-            "receiverAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "amount":"0.9694",
-            "token":{
-              "collection":{
-                "symbol":"EPO",
-                "name":"EtherPOAP OG"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "receiverAddress":{
-              "id":"0x7494057b9839277ce7ee4c27ebe3423d367f3fc3"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EPO",
-                "name":"EtherPOAP OG"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x7494057b9839277ce7ee4c27ebe3423d367f3fc3"
-      },
-      "platform":"LooksRare",
-      "amount":"0.9694",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676982779,
-      "blockNumber":16676898
-    }
-  },
-  "20":{
-    "sales":{
-      "transaction":{
-        "id":"0xf7cc37c379f376d7eaef26bc09a7222d45e730aa55d8e27f624f615c8dc690cc",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x53898b7b07ce7b8b9f1881ab07e232914e69a584"
-            },
-            "receiverAddress":{
-              "id":"0x0dea2b449fc4cdfc6d3c731384df31457f602f07"
-            },
-            "amount":"0.07391428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x0dea2b449fc4cdfc6d3c731384df31457f602f07"
-      },
-      "platform":"X2Y2",
-      "amount":"0.07391428571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676982887,
-      "blockNumber":16676907
-    }
-  },
-  "21":{
-    "sales":{
-      "transaction":{
-        "id":"0x2d2d9898ff0b58b2412a50dd756a96eeaaff6ef0fa147d2c101f063a782e7b03",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xca2b31707c5a21719644d6251cc65e09948bf245"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"2.02",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xa4fb0e1f6ad0a87a3ec2427ca3a944c42d19d1ca"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x674c6d8e1477d771c22eee7892f94527c397d345"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x77e3e957082ca648c1c5b0f3e6aec00ab1245186"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x36355c0ed52a9aa0aa018dd00a48d13952096a65"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xa4fb0e1f6ad0a87a3ec2427ca3a944c42d19d1ca"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xa4fb0e1f6ad0a87a3ec2427ca3a944c42d19d1ca"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xa4fb0e1f6ad0a87a3ec2427ca3a944c42d19d1ca"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa4fb0e1f6ad0a87a3ec2427ca3a944c42d19d1ca"
-      },
-      "platform":"LooksRare",
-      "amount":"2.02",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983379,
-      "blockNumber":16676948
-    }
-  },
-  "22":{
-    "sales":{
-      "transaction":{
-        "id":"0x2c16ac3b23d210bc8d43c4b455ecae9d2f07a763ae45c29869aec400d191c3df",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x039d3ece7a18986661fb33d1e3e1f6a30c7f93e0"
-            },
-            "receiverAddress":{
-              "id":"0x9250f8149067fc068189f95e92f0eea9673f62d0"
-            },
-            "amount":"5.2",
-            "token":{
-              "collection":{
-                "symbol":"CloneX",
-                "name":"CloneX"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x9250f8149067fc068189f95e92f0eea9673f62d0"
-      },
-      "platform":"LooksRare",
-      "amount":"5.2",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983571,
-      "blockNumber":16676964
-    }
-  },
-  "23":{
-    "sales":{
-      "transaction":{
-        "id":"0xc141b9a1a52babd84abb72c914fb48dabbdbb062c72bb56524ecfe353af5eeaa",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xda18f44d240de81838e42bf7636232ccee3baf56"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"2.021443975079201",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0x1a51bcbc8d3642680d8267550f54e6e4cc5c4984"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x1a51bcbc8d3642680d8267550f54e6e4cc5c4984"
-      },
-      "platform":"LooksRare",
-      "amount":"2.021443975079201",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983655,
-      "blockNumber":16676971
-    }
-  },
-  "24":{
-    "sales":{
-      "transaction":{
-        "id":"0x7148d96afc291f131728a08174bb4ccfb1b6de07583ee73558fc932786f980cc",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xb87e278d4e487cb4cb8fd503efaf5b40c2739e41"
-            },
-            "receiverAddress":{
-              "id":"0x63e0605491bda6e4c1c37cf818a45b836faf46ee"
-            },
-            "amount":"15.7",
+            "amount":"16.17346938775510204081632653061224",
             "token":{
               "collection":{
                 "symbol":"MAYC",
@@ -1682,2603 +581,35 @@
             }
           }
         ],
-        "transactionFrom":"0xb87e278d4e487cb4cb8fd503efaf5b40c2739e41"
-      },
-      "platform":"LooksRare",
-      "amount":"15.7",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983691,
-      "blockNumber":16676974
-    }
-  },
-  "25":{
-    "sales":{
-      "transaction":{
-        "id":"0x1516e999f191a0a940724484e1d1a0795fd498593de344ff055de866b8965e44",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x9e69b59b8d2a094cb1117f92ff7dcf51ed467b41"
-            },
-            "receiverAddress":{
-              "id":"0xc6b1851514e2b630cf42ee34b64a8c1363a2326d"
-            },
-            "amount":"2.021596990045161573",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xc6b1851514e2b630cf42ee34b64a8c1363a2326d"
-      },
-      "platform":"LooksRare",
-      "amount":"2.021596990045161573",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983787,
-      "blockNumber":16676982
-    }
-  },
-  "26":{
-    "sales":{
-      "transaction":{
-        "id":"0x1f0e0456de023bcee78261d6b9dea06e0152ea186fda5fb89de7c12a4103ac22",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xd722755aa3d8b2e9521209ee5014d0e446b82ff5"
-            },
-            "receiverAddress":{
-              "id":"0x8a949a4ef56e4a083c8b0006cf91d96089fbacaa"
-            },
-            "amount":"1.826000000000000512",
-            "token":{
-              "collection":{
-                "symbol":"0N1",
-                "name":"0N1 Force"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x8a949a4ef56e4a083c8b0006cf91d96089fbacaa"
-      },
-      "platform":"LooksRare",
-      "amount":"1.826000000000000512",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983835,
-      "blockNumber":16676986
-    }
-  },
-  "27":{
-    "sales":{
-      "transaction":{
-        "id":"0x8a5ec3885c4ef52feaaacc40c484ed1ed1156881d128cc22308afd890d1d1bbe",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x562607a01a12e84a4abe025ac14ab1e36b76519f"
-            },
-            "amount":"0.161284488971208896",
-            "token":{
-              "collection":{
-                "symbol":"PREMINTCOLL",
-                "name":"PREMINT Collector"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-      },
-      "platform":"LooksRare",
-      "amount":"0.161284488971208896",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676983919,
-      "blockNumber":16676993
-    }
-  },
-  "28":{
-    "sales":{
-      "transaction":{
-        "id":"0x9f11ca65fbaf93f69c2f1f3a6e2781d29fa7a9dd96749345a1124e1055a1af06",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xeb7aebe858c64450e3144512189a0ffebb838d59"
-            },
-            "receiverAddress":{
-              "id":"0x76740bb19da11bf93c7f244f04d240d8df204a3a"
-            },
-            "amount":"16.9387755102040816326530612244898",
-            "token":{
-              "collection":{
-                "symbol":"AZUKI",
-                "name":"Azuki"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x76740bb19da11bf93c7f244f04d240d8df204a3a"
+        "transactionFrom":"0x338fd2112a6f306a390bde5304660903a7b12ef9"
       },
       "platform":"X2Y2",
-      "amount":"16.9387755102040816326530612244898",
+      "amount":"16.17346938775510204081632653061224",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676983943,
-      "blockNumber":16676995
+      "timestamp":1677255023,
+      "blockNumber":16699291
     }
   },
-  "29":{
+  "18":{
     "sales":{
       "transaction":{
-        "id":"0xbe77528d1be2de88c4c95ad520dfd03439ff902010f8c1412141a6dc13c09223",
+        "id":"0x6d7b1e0a11994db9a5209f15356d13c0ddec3571dc60add339ad474bddfb9064",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x3c019396e8c13d05ca279e0f7f9d36202df4bb03"
-            },
-            "receiverAddress":{
-              "id":"0xb253434ae17a68fecd089edc8f0ac9f23c5e4fbd"
-            },
-            "amount":"0.07614795918367346938775510204081633",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xb253434ae17a68fecd089edc8f0ac9f23c5e4fbd"
-      },
-      "platform":"X2Y2",
-      "amount":"0.07614795918367346938775510204081633",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984063,
-      "blockNumber":16677005
-    }
-  },
-  "30":{
-    "sales":{
-      "transaction":{
-        "id":"0xbfe3098ed36d36f34800318babd9c3d1a4dd4c5fea8b27e8b724c69dc3dc23b3",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xf52a67b11935337aa9b57e182b4b49acd62cb70c"
-            },
-            "receiverAddress":{
-              "id":"0xa87653b466cb1af7196de90be3ca99cb0f44d46a"
-            },
-            "amount":"0.3858163265306122448979591836734694",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa87653b466cb1af7196de90be3ca99cb0f44d46a"
-      },
-      "platform":"X2Y2",
-      "amount":"0.3858163265306122448979591836734694",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984159,
-      "blockNumber":16677013
-    }
-  },
-  "31":{
-    "sales":{
-      "transaction":{
-        "id":"0x88e27b2da303f1d32bcc9543859d7b0943c45c68d5d16eabf0c65ac44dfbe702",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xf52a67b11935337aa9b57e182b4b49acd62cb70c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.1929081632653061224489795918367347",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x01b8c4d93ce8a1d39571a8cf15eaeb4e3f9ab21d"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.3939387755102040816326530612244898",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-            },
-            "amount":"0.1929081632653061224489795918367347",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-      },
-      "platform":"X2Y2",
-      "amount":"0.3858163265306122448979591836734694",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984195,
-      "blockNumber":16677016
-    }
-  },
-  "32":{
-    "sales":{
-      "transaction":{
-        "id":"0x88e27b2da303f1d32bcc9543859d7b0943c45c68d5d16eabf0c65ac44dfbe702",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xf52a67b11935337aa9b57e182b4b49acd62cb70c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.1929081632653061224489795918367347",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x01b8c4d93ce8a1d39571a8cf15eaeb4e3f9ab21d"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.3939387755102040816326530612244898",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-            },
-            "amount":"0.1929081632653061224489795918367347",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x8f6dec4ef0c39461e0be398623c3ce075a86c176"
-      },
-      "platform":"X2Y2",
-      "amount":"0.3939387755102040816326530612244898",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984195,
-      "blockNumber":16677016
-    }
-  },
-  "33":{
-    "sales":{
-      "transaction":{
-        "id":"0xc8ea1e64325bd870ee8f22b62fbf33a962ceeb9ac7a1f3cbf95e9be205c617ec",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x1f8cef0cdde793f1cccc54214b00295d37781654"
-            },
-            "receiverAddress":{
-              "id":"0x4a87d1b71937f06db976631bdfacc82a5cdd076a"
-            },
-            "amount":"0.08630102040816326530612244897959184",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4a87d1b71937f06db976631bdfacc82a5cdd076a"
-      },
-      "platform":"X2Y2",
-      "amount":"0.08630102040816326530612244897959184",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984219,
-      "blockNumber":16677018
-    }
-  },
-  "34":{
-    "sales":{
-      "transaction":{
-        "id":"0x33605a41f2b87faf646c745c4db3919571d36e831b5b008bc486ace7b6b6c6f3",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x1a31395f7ee44b6c5aef70bbd48718aa1b33b789"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x301cc218009608e59f9647f4b7dd8a49be8493af"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x1a31395f7ee44b6c5aef70bbd48718aa1b33b789"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x5e2083c8a7ec9f90659e7d8cee0e28c82782a8ed"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x31f4fe9b63bc56a26ee7d937c5e085948a922f94"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xde5bacc8880421fa08864d240627862e4423eaa2"
-            },
-            "receiverAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.025",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xde5bacc8880421fa08864d240627862e4423eaa2"
-            },
-            "receiverAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "amount":"0.025",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0bff8c94a16a49049fa6766cf36c1428952ee55d"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0bff8c94a16a49049fa6766cf36c1428952ee55d"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x872bf8366ed2216c2ebaabd5499ed7ae04e6c1a3"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x872bf8366ed2216c2ebaabd5499ed7ae04e6c1a3"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xf64684d003e6432d519694acfe7574de798605d6"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-      },
-      "platform":"LooksRare",
-      "amount":"0.05",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676984303,
-      "blockNumber":16677025
-    }
-  },
-  "35":{
-    "sales":{
-      "transaction":{
-        "id":"0x33605a41f2b87faf646c745c4db3919571d36e831b5b008bc486ace7b6b6c6f3",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x1a31395f7ee44b6c5aef70bbd48718aa1b33b789"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x301cc218009608e59f9647f4b7dd8a49be8493af"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x1a31395f7ee44b6c5aef70bbd48718aa1b33b789"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x5e2083c8a7ec9f90659e7d8cee0e28c82782a8ed"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x31f4fe9b63bc56a26ee7d937c5e085948a922f94"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xde5bacc8880421fa08864d240627862e4423eaa2"
-            },
-            "receiverAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "amount":"0.008333333333333333333333333333333333",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0.025",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xde5bacc8880421fa08864d240627862e4423eaa2"
-            },
-            "receiverAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "amount":"0.025",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0bff8c94a16a49049fa6766cf36c1428952ee55d"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0bff8c94a16a49049fa6766cf36c1428952ee55d"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x872bf8366ed2216c2ebaabd5499ed7ae04e6c1a3"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x872bf8366ed2216c2ebaabd5499ed7ae04e6c1a3"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xf64684d003e6432d519694acfe7574de798605d6"
-            },
-            "receiverAddress":{
-              "id":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"EBA",
-                "name":"BlockArt"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa742896c22183d6be73c758aa9f1ca4032433678"
-      },
-      "platform":"LooksRare",
-      "amount":"0.05",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676984303,
-      "blockNumber":16677025
-    }
-  },
-  "36":{
-    "sales":{
-      "transaction":{
-        "id":"0xbdcf854cddc0af14ffd9b2f09306ff7f44cd0f47ec818f8aac9068c4862e9be5",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x4a87d1b71937f06db976631bdfacc82a5cdd076a"
-            },
-            "receiverAddress":{
-              "id":"0x21d5996bbc760627d71f857f321249b61da96351"
-            },
-            "amount":"0.1502653061224489795918367346938776",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x21d5996bbc760627d71f857f321249b61da96351"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1502653061224489795918367346938776",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984483,
-      "blockNumber":16677040
-    }
-  },
-  "37":{
-    "sales":{
-      "transaction":{
-        "id":"0xfa30bc6adda44dc8a20cbbbd441ecccc1bb9ca166e168541ae55e8979c33a6f4",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x17e566d94b9e9471eaaa1fd48fed92666fe0e6c0"
-            },
-            "receiverAddress":{
-              "id":"0x453721d8f20513944a0edc7230ec2709552f7e17"
-            },
-            "amount":"0.8619948979591836734693877551020408",
-            "token":{
-              "collection":{
-                "symbol":"OPEPEN",
-                "name":"Opepen Edition"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x453721d8f20513944a0edc7230ec2709552f7e17"
-      },
-      "platform":"X2Y2",
-      "amount":"0.8619948979591836734693877551020408",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984495,
-      "blockNumber":16677041
-    }
-  },
-  "38":{
-    "sales":{
-      "transaction":{
-        "id":"0xb97688a7ceb33b76d938ab45b3c7675f2aa34f7a07d2b6131271ace2fb0903fb",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x9aed0a690adb721b2a24e0b12397e528d4cd5844"
-            },
-            "receiverAddress":{
-              "id":"0x139a57d51257d7ea54ed9b810e17013133952d32"
-            },
-            "amount":"0.1858775510204081632653061224489796",
-            "token":{
-              "collection":{
-                "symbol":"PREMINTCOLL",
-                "name":"PREMINT Collector"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x139a57d51257d7ea54ed9b810e17013133952d32"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1858775510204081632653061224489796",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984555,
-      "blockNumber":16677046
-    }
-  },
-  "39":{
-    "sales":{
-      "transaction":{
-        "id":"0xb9251e5e710552c7d678d28d809b1700a0e917b06ed29d29c31051da38738972",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xf65699826f87939525fdee8b5596714a09c36bbc"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.1918928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xd532962fd7976880fdff92db9cbe48a7369b1fc0"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0ec390f6c70baf1b192270e903bec234dbb3b07f"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xc934cd6fc9e217599bc182163f02fd040684e771"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xdfcba7eae632a6ea1be4d1ce59700b2c23db8435"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xfaf503b43d3aaa149c858be350023e15e1145177"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4204bb0b411f49f7500b946a5554227f5f406258"
-            },
-            "receiverAddress":{
-              "id":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xcc04b9aad232fe26e5690141fcfd20d619e0cfd4"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1918928571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984579,
-      "blockNumber":16677048
-    }
-  },
-  "40":{
-    "sales":{
-      "transaction":{
-        "id":"0xea570639f1ad27a637d4a98fc4b87f7f4146d2939541117d41d69bd30b5bec64",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x253ae13b5e9d0b789e6e0e4335df8c5b48060908"
-            },
-            "receiverAddress":{
-              "id":"0xe22a8b0fd4bf0a25b2af2f9ae0dbd7c5600e84a0"
-            },
-            "amount":"0.1918928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe22a8b0fd4bf0a25b2af2f9ae0dbd7c5600e84a0"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1918928571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984615,
-      "blockNumber":16677051
-    }
-  },
-  "41":{
-    "sales":{
-      "transaction":{
-        "id":"0x50109a34cebc0c7427b1e27511727b14a513b1d33ce517d5abfcb8378913f18e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x70ddb726aedb9611cd85330f325e3bb849d9d833"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.06993428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-            },
-            "amount":"0.03502806122448979591836734693877551",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x92d4a571d74e4eddd8f0f454a8cac00a100119e0"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.03502806122448979591836734693877551",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06993428571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984795,
-      "blockNumber":16677066
-    }
-  },
-  "42":{
-    "sales":{
-      "transaction":{
-        "id":"0x50109a34cebc0c7427b1e27511727b14a513b1d33ce517d5abfcb8378913f18e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x70ddb726aedb9611cd85330f325e3bb849d9d833"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.06993428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-            },
-            "amount":"0.03502806122448979591836734693877551",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x92d4a571d74e4eddd8f0f454a8cac00a100119e0"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.03502806122448979591836734693877551",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-      },
-      "platform":"X2Y2",
-      "amount":"0.07005612244897959183673469387755102",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676984795,
-      "blockNumber":16677066
-    }
-  },
-  "43":{
-    "sales":{
-      "transaction":{
-        "id":"0x854521e8f735450c3ca4a08a19631b42af49a0df42cb96294a943e7bf1ff5f9e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x2f00ec31652d35f0aa5bbd72520bee6069f6fb36"
-            },
-            "receiverAddress":{
-              "id":"0xfc7f32ca1678199ea2698a812d19d39b700ca673"
-            },
-            "amount":"0.069",
-            "token":{
-              "collection":{
-                "symbol":"PLANET",
-                "name":"Troverse Planets"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xfc7f32ca1678199ea2698a812d19d39b700ca673"
-      },
-      "platform":"LooksRare",
-      "amount":"0.069",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676984831,
-      "blockNumber":16677069
-    }
-  },
-  "44":{
-    "sales":{
-      "transaction":{
-        "id":"0xed66b6a17ce2ed2b1f5a5f8e4db74296ee0aa94fc7fcf4c30f20d706a544c0ee",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x2244deba8c0e788a60b30b805ff970e082bdbc5a"
-            },
-            "receiverAddress":{
-              "id":"0x7df70b612040c682d1cb2e32017446e230fcd747"
-            },
-            "amount":"2.80612244897959183673469387755102",
-            "token":{
-              "collection":{
-                "symbol":"SEWER",
-                "name":"SewerPass"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x7df70b612040c682d1cb2e32017446e230fcd747"
-      },
-      "platform":"X2Y2",
-      "amount":"2.80612244897959183673469387755102",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676985143,
-      "blockNumber":16677095
-    }
-  },
-  "45":{
-    "sales":{
-      "transaction":{
-        "id":"0x542351fafd245b23248ce3e34b550dfbe02e211c31d58216858e3dcc3fe4e1d5",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xdd14edb19951f81bab8ff0aadb7b28c06e0ed174"
-            },
-            "receiverAddress":{
-              "id":"0xa0ca7867d1a314bcad3a06bda01de57ff1b9f763"
-            },
-            "amount":"0.1421428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa0ca7867d1a314bcad3a06bda01de57ff1b9f763"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1421428571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676985323,
-      "blockNumber":16677110
-    }
-  },
-  "46":{
-    "sales":{
-      "transaction":{
-        "id":"0x91987ccaf35c5a65bb2382f29f0b82c79e8ad601c86c2681e79dcd5b0dd7552e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x87415604e043d6f688eb0e9d8e6b41809d3b8a61"
-            },
-            "receiverAddress":{
-              "id":"0xfc3eb39f0627d0af875aa5cfd2a2cee78b23ddfc"
-            },
-            "amount":"2.040816326530612244897959183673469",
-            "token":{
-              "collection":{
-                "symbol":"RENGA",
-                "name":"RENGA"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xfc3eb39f0627d0af875aa5cfd2a2cee78b23ddfc"
-      },
-      "platform":"X2Y2",
-      "amount":"2.040816326530612244897959183673469",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676985335,
-      "blockNumber":16677111
-    }
-  },
-  "47":{
-    "sales":{
-      "transaction":{
-        "id":"0xd4be6db69651f6c89851059645775bc829eabb81e59d6c6304e121d66f610654",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x435b482cf0030e3b688b47477d8c123a5a5be3eb"
-            },
-            "receiverAddress":{
-              "id":"0xf8d0a4542b1277d8a330e69cc56bdc109029c623"
-            },
-            "amount":"2.02",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xf8d0a4542b1277d8a330e69cc56bdc109029c623"
-      },
-      "platform":"LooksRare",
-      "amount":"2.02",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676985503,
-      "blockNumber":16677124
-    }
-  },
-  "48":{
-    "sales":{
-      "transaction":{
-        "id":"0xfd92da397a84502a24f9d37111670bb05266c161d6749624797932c9e666d2da",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x9108366a1333e6170d788358b5f99880dd02b3f7"
-            },
-            "receiverAddress":{
-              "id":"0xd96f823f4ff5faafef7104d1bf608fad165f2654"
-            },
-            "amount":"0.13900000000000002",
-            "token":{
-              "collection":{
-                "symbol":"KARAFURU",
-                "name":"Karafuru"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x9108366a1333e6170d788358b5f99880dd02b3f7"
-      },
-      "platform":"LooksRare",
-      "amount":"0.13900000000000002",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676985599,
-      "blockNumber":16677132
-    }
-  },
-  "49":{
-    "sales":{
-      "transaction":{
-        "id":"0x879129a26b98eb591f2aa8a1e57d1a76296de672738f5e24b8c4174368635922",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x07b0dac1ed735108c132e5e8d2b62ff053ffb6b6"
-            },
-            "receiverAddress":{
-              "id":"0xe852c2189316ec5eee9f36272962ade430f38531"
-            },
-            "amount":"1.32",
-            "token":{
-              "collection":{
-                "symbol":"MFER",
-                "name":"mfer"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x07b0dac1ed735108c132e5e8d2b62ff053ffb6b6"
-      },
-      "platform":"LooksRare",
-      "amount":"1.32",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676985647,
-      "blockNumber":16677136
-    }
-  },
-  "50":{
-    "sales":{
-      "transaction":{
-        "id":"0xcaaba83ca8c5926375bbf0bff1ae1e6630049acf9518994865bc9c601bf74f03",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe749e9e7eaa02203c925a036226af80e2c79403e"
-            },
-            "receiverAddress":{
-              "id":"0xbc69ab486852fa13c6ccd84800afdbbd984f4fd5"
-            },
-            "amount":"17.34693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"SEWER",
-                "name":"SewerPass"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xbc69ab486852fa13c6ccd84800afdbbd984f4fd5"
-      },
-      "platform":"X2Y2",
-      "amount":"17.34693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676985683,
-      "blockNumber":16677139
-    }
-  },
-  "51":{
-    "sales":{
-      "transaction":{
-        "id":"0xb45f4e78f5cef7bb5c87e24d24deb212cb389fc46d9a3b4cca374967fdfedf97",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
-            },
-            "receiverAddress":{
-              "id":"0x3fcdc3f2bcd77858af7e27b95c7f4b662dcd3b06"
-            },
-            "amount":"0.1218367346938775510204081632653061",
-            "token":{
-              "collection":{
-                "symbol":"gg",
-                "name":"Gh0stlyGh0sts"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x3fcdc3f2bcd77858af7e27b95c7f4b662dcd3b06"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1218367346938775510204081632653061",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676985839,
-      "blockNumber":16677152
-    }
-  },
-  "52":{
-    "sales":{
-      "transaction":{
-        "id":"0x589ac6caabee7d7d288831485508b5e56f475170d83d73998c3119e3e3a5b233",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe37bd826c5c567072984baa815cc87436970a1a3"
-            },
-            "receiverAddress":{
-              "id":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-            },
-            "amount":"0.06893928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa799db913c4f10762d9c45d17afad3e36be7989e"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06893928571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986211,
-      "blockNumber":16677183
-    }
-  },
-  "53":{
-    "sales":{
-      "transaction":{
-        "id":"0x3b664a7aeec8d941a97eb22683994db883f8a0ac68492aec2a8a1aaaef9d394f",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8a55a349cdf78855b6da999ecdd48f0c6b8f9e57"
-            },
-            "receiverAddress":{
-              "id":"0x0a1ccc5aab66b90c6a71671df5b673d3e4a34d2d"
-            },
-            "amount":"0.1370663265306122448979591836734694",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x0a1ccc5aab66b90c6a71671df5b673d3e4a34d2d"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1370663265306122448979591836734694",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986223,
-      "blockNumber":16677184
-    }
-  },
-  "54":{
-    "sales":{
-      "transaction":{
-        "id":"0x4e4202d33d189995b89dd42de7ed102cc40060ca4d56687bcc58b9444755465a",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe7375aa26111070f20212772b90af4ebb6a16123"
-            },
-            "receiverAddress":{
-              "id":"0x17e848f573aa805e6f5cd323947b7954ce0867a1"
-            },
-            "amount":"0.1522959183673469387755102040816327",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x17e848f573aa805e6f5cd323947b7954ce0867a1"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1522959183673469387755102040816327",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986391,
-      "blockNumber":16677197
-    }
-  },
-  "55":{
-    "sales":{
-      "transaction":{
-        "id":"0x2d79c19c55b22d42d4b0d2e72b6e1f78e183995166a56bd0b8f659602b07a9ff",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x07e6fef807518afcacb65092f3b592d36bda4d2e"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06893928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x97309316dd03c13c717d2375b7efce36ca27704d"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe37bd826c5c567072984baa815cc87436970a1a3"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06893928571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986523,
-      "blockNumber":16677208
-    }
-  },
-  "56":{
-    "sales":{
-      "transaction":{
-        "id":"0x2d79c19c55b22d42d4b0d2e72b6e1f78e183995166a56bd0b8f659602b07a9ff",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x07e6fef807518afcacb65092f3b592d36bda4d2e"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06893928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x97309316dd03c13c717d2375b7efce36ca27704d"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe37bd826c5c567072984baa815cc87436970a1a3"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06589336734693877551020408163265306",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986523,
-      "blockNumber":16677208
-    }
-  },
-  "57":{
-    "sales":{
-      "transaction":{
-        "id":"0x2d79c19c55b22d42d4b0d2e72b6e1f78e183995166a56bd0b8f659602b07a9ff",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x07e6fef807518afcacb65092f3b592d36bda4d2e"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06893928571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x97309316dd03c13c717d2375b7efce36ca27704d"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03294668367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe37bd826c5c567072984baa815cc87436970a1a3"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.03446964285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe8a8ffc888a4c078b09974ed0af9bee1ececc056"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06893928571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986523,
-      "blockNumber":16677208
-    }
-  },
-  "58":{
-    "sales":{
-      "transaction":{
-        "id":"0xd417e8c7abcbf620f47281f0e3b6b9d2d8b9203250ecbf0bba8bb38b81bdfc28",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x899cd70ad8f1b9bdfc9a179e7f6dcab6f9caab41"
-            },
-            "receiverAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "amount":"2.0218",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "receiverAddress":{
-              "id":"0x0de7f448c94d3b9214d3f510300ffc4dd0b7fec5"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x0de7f448c94d3b9214d3f510300ffc4dd0b7fec5"
-      },
-      "platform":"LooksRare",
-      "amount":"2.0218",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676986643,
-      "blockNumber":16677218
-    }
-  },
-  "59":{
-    "sales":{
-      "transaction":{
-        "id":"0x0cfd74ce39fd24ded38b3cae4c2de050e37f3fdf1b4ee1140276314778fb36d5",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x3cd9b95a13bc6eb418af2eba65bcbd794e3ccf28"
-            },
-            "receiverAddress":{
-              "id":"0x4a4b9a1553dadb071fe6a53bfe909ec08cb6ce35"
-            },
-            "amount":"0.06599489795918367346938775510204082",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4a4b9a1553dadb071fe6a53bfe909ec08cb6ce35"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06599489795918367346938775510204082",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676986667,
-      "blockNumber":16677220
-    }
-  },
-  "60":{
-    "sales":{
-      "transaction":{
-        "id":"0x310626aabc595f267c761a9e25436e87b7374583207339e8c933a7d808ffb5dd",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xfcc0d6dc8b50b5c8bfa3c3b6631404d9603e4a08"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.047495",
-            "token":{
-              "collection":{
-                "symbol":"IVYBOYS",
-                "name":"BBRC OFFICIAL - IVY BOYS"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0xcb8c1fe534aafa4f1e7036ea0d33fc86d1e7e403"
-            },
-            "amount":"0.047495",
-            "token":{
-              "collection":{
-                "symbol":"IVYBOYS",
-                "name":"BBRC OFFICIAL - IVY BOYS"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xfcc0d6dc8b50b5c8bfa3c3b6631404d9603e4a08"
-      },
-      "platform":"LooksRare",
-      "amount":"0.09499",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676986751,
-      "blockNumber":16677227
-    }
-  },
-  "61":{
-    "sales":{
-      "transaction":{
-        "id":"0xe2ea6b4906d916fb830f3a6ef64208ae2b637648dbe21f44138a44c5eb535d66",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x37bb1eaf29d64930e2f1c97b67c18b6086f2ebee"
-            },
-            "receiverAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "amount":"0.0068",
-            "token":{
-              "collection":{
-                "symbol":"apeclub",
-                "name":"apeclub"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "receiverAddress":{
-              "id":"0x629c4565be654c4a5f742da05ced064e16224981"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"apeclub",
-                "name":"apeclub"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x629c4565be654c4a5f742da05ced064e16224981"
-      },
-      "platform":"LooksRare",
-      "amount":"0.0068",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676986835,
-      "blockNumber":16677234
-    }
-  },
-  "62":{
-    "sales":{
-      "transaction":{
-        "id":"0xa41b19bbbe2fe94d581f308a0f359b72ca719efef25ca5bf673eab6ab9eb6216",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x235e14f5cde92a098d9b38a3f3ac07e7058cd40c"
-            },
-            "receiverAddress":{
-              "id":"0x6198c78e0830e1c449765bb213603b09e131d50d"
-            },
-            "amount":"0.085",
-            "token":{
-              "collection":{
-                "symbol":"SLOTIE",
-                "name":"Slotie"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x6198c78e0830e1c449765bb213603b09e131d50d"
-      },
-      "platform":"LooksRare",
-      "amount":"0.085",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676987003,
-      "blockNumber":16677248
-    }
-  },
-  "63":{
-    "sales":{
-      "transaction":{
-        "id":"0xbfcb6ae7cf30b82ae1852fae32bd70c4748bdcc9782860d9fbd8457f163c31de",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x69cd13c112816d397a3e9c95da4c7a9f54be58ff"
-            },
-            "amount":"0.04",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x69cd13c112816d397a3e9c95da4c7a9f54be58ff"
-      },
-      "platform":"LooksRare",
-      "amount":"0.04",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676987135,
-      "blockNumber":16677259
-    }
-  },
-  "64":{
-    "sales":{
-      "transaction":{
-        "id":"0x8930f219b171e08e0884efa564669d70db148b061a33e4f91b61f9ab329a87df",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x3cd9b95a13bc6eb418af2eba65bcbd794e3ccf28"
-            },
-            "receiverAddress":{
-              "id":"0xe2d70f3254fc0f2f72e933191737d15c4907d6a2"
-            },
-            "amount":"0.06599489795918367346938775510204082",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe2d70f3254fc0f2f72e933191737d15c4907d6a2"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06599489795918367346938775510204082",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987147,
-      "blockNumber":16677260
-    }
-  },
-  "65":{
-    "sales":{
-      "transaction":{
-        "id":"0x27f8388c087509eb37ccc0392f59bc746f675f160f5d116aada39afe34809c56",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x235e14f5cde92a098d9b38a3f3ac07e7058cd40c"
-            },
-            "receiverAddress":{
-              "id":"0x6198c78e0830e1c449765bb213603b09e131d50d"
-            },
-            "amount":"0.085",
-            "token":{
-              "collection":{
-                "symbol":"SLOTIE",
-                "name":"Slotie"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x6198c78e0830e1c449765bb213603b09e131d50d"
-      },
-      "platform":"LooksRare",
-      "amount":"0.085",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676987219,
-      "blockNumber":16677266
-    }
-  },
-  "66":{
-    "sales":{
-      "transaction":{
-        "id":"0x635e18a6ed92320acdc464b720017b5552e6458740d02ee82d449c8848b1e735",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x3b01b137869085930e65f9f8ee9850a3571aafcf"
-            },
-            "receiverAddress":{
-              "id":"0x57283a59fbf1a05dc0503101ffd0237c301d7185"
-            },
-            "amount":"2.34693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"RENGA",
-                "name":"RENGA"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x57283a59fbf1a05dc0503101ffd0237c301d7185"
-      },
-      "platform":"X2Y2",
-      "amount":"2.34693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987291,
-      "blockNumber":16677272
-    }
-  },
-  "67":{
-    "sales":{
-      "transaction":{
-        "id":"0x69c14febd3733c4c39969c6e39a8d70c69d8502b93ea8148aa0dd9260e7e795f",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xd7232a67f45bc804349422c17b1aa8af9f6330e6"
-            },
-            "receiverAddress":{
-              "id":"0xd9543aa4e7a92eeca8c29eb59f5470a1cba6353f"
-            },
-            "amount":"0.2968112244897959183673469387755102",
-            "token":{
-              "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xd9543aa4e7a92eeca8c29eb59f5470a1cba6353f"
-      },
-      "platform":"X2Y2",
-      "amount":"0.2968112244897959183673469387755102",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987519,
-      "blockNumber":16677291
-    }
-  },
-  "68":{
-    "sales":{
-      "transaction":{
-        "id":"0x04eac56d4f72067205a6df54379eb1076de8d912d31e24a5a5b2c014559a0ff0",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x128c65bd27874ef0a2be6cddffebf7dc615cfa1c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.006091836734693877551020408163265306",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-            },
-            "amount":"0.003045918367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x128c65bd27874ef0a2be6cddffebf7dc615cfa1c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.003045918367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-      },
-      "platform":"X2Y2",
-      "amount":"0.006091836734693877551020408163265306",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987771,
-      "blockNumber":16677312
-    }
-  },
-  "69":{
-    "sales":{
-      "transaction":{
-        "id":"0x04eac56d4f72067205a6df54379eb1076de8d912d31e24a5a5b2c014559a0ff0",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x128c65bd27874ef0a2be6cddffebf7dc615cfa1c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.006091836734693877551020408163265306",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-            },
-            "amount":"0.003045918367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x128c65bd27874ef0a2be6cddffebf7dc615cfa1c"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.003045918367346938775510204081632653",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xc771972c541c4600f0337b50f2a7f1378c66a3b0"
-      },
-      "platform":"X2Y2",
-      "amount":"0.006091836734693877551020408163265306",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987771,
-      "blockNumber":16677312
-    }
-  },
-  "70":{
-    "sales":{
-      "transaction":{
-        "id":"0x5ad1cb12f81a5b245f58b311ce49422aa2a1aac50b71567d77843c77cbd8d559",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x242d1c142f6c4a8f8311f2ba12e3bc9370f16167"
-            },
-            "receiverAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "amount":"0.006497959183673469387755102040816327",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x4326275317acc0fae4aa5c68fce4c54c74dc08d3"
-            },
-            "receiverAddress":{
-              "id":"0xac3c837d67b4f638c0abbf711327cfd33149cf3d"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DEADCATCHECK",
-                "name":"Dead Cat Check"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xac3c837d67b4f638c0abbf711327cfd33149cf3d"
-      },
-      "platform":"X2Y2",
-      "amount":"0.006497959183673469387755102040816327",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676987795,
-      "blockNumber":16677314
-    }
-  },
-  "71":{
-    "sales":{
-      "transaction":{
-        "id":"0xea5ac3651b80d1a8abeb0a19fdf24cac6f1fe93fd5dfd2d0462617ef10b1dfc6",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xd7232a67f45bc804349422c17b1aa8af9f6330e6"
+              "id":"0x47d56ffacef9fb46738715fac6388297d51cc916"
             },
             "receiverAddress":{
               "id":"0xccd6b8e11f1abc13efa7ff0367d801bc53b98f77"
             },
-            "amount":"0.305943877551020408163265306122449",
+            "amount":"3.045918367346938775510204081632653",
             "token":{
               "collection":{
-                "symbol":"OEKA",
-                "name":"OPEN EDITION BY KEVIN ABOSCH"
+                "symbol":"Paint",
+                "name":"FewoWorld Paint"
               }
             }
           }
@@ -4286,355 +617,28 @@
         "transactionFrom":"0xccd6b8e11f1abc13efa7ff0367d801bc53b98f77"
       },
       "platform":"X2Y2",
-      "amount":"0.305943877551020408163265306122449",
+      "amount":"3.045918367346938775510204081632653",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676987795,
-      "blockNumber":16677314
+      "timestamp":1677255275,
+      "blockNumber":16699311
     }
   },
-  "72":{
+  "19":{
     "sales":{
       "transaction":{
-        "id":"0x497e99a6bdb8c7a5b6d01a3643aedfacfa748888340de13d60b8f5dc7dff23f6",
+        "id":"0xf2da13a467173826c7bd85a61b97d90dd55b9b0dd29e9cb8a2bec771f18fd61f",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xfd38df5233edf3c5e9eb9ec178de80d313544a25"
+              "id":"0xc40a87a20f1789435feecb2450639885748a2e64"
             },
             "receiverAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
+              "id":"0x992039055f361d66229933327459d30e67a614a0"
             },
-            "amount":"0.0057",
-            "token":{
-              "collection":{
-                "symbol":"GentlemanPunkYacht",
-                "name":"GentlemanPunkYacht"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
-            },
-            "receiverAddress":{
-              "id":"0xfa10cf5e94b72fb53bb37b92fe0e4909f68a5e65"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"GentlemanPunkYacht",
-                "name":"GentlemanPunkYacht"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xfa10cf5e94b72fb53bb37b92fe0e4909f68a5e65"
-      },
-      "platform":"LooksRare",
-      "amount":"0.0057",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676987891,
-      "blockNumber":16677322
-    }
-  },
-  "73":{
-    "sales":{
-      "transaction":{
-        "id":"0x5fc41ad1a294efdf18c82c2021a2cf2468c763bef00faa9f00877526f8363d11",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xfda71a46d2d4f528480fdd1b3b91930c7aab440d"
-            },
-            "receiverAddress":{
-              "id":"0x72baaabf655e805994fd378f2da960a092a738d3"
-            },
-            "amount":"2.551020408163265306122448979591837",
-            "token":{
-              "collection":{
-                "symbol":"RENGA",
-                "name":"RENGA"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x72baaabf655e805994fd378f2da960a092a738d3"
-      },
-      "platform":"X2Y2",
-      "amount":"2.551020408163265306122448979591837",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989343,
-      "blockNumber":16677442
-    }
-  },
-  "74":{
-    "sales":{
-      "transaction":{
-        "id":"0x981493c8da58baf453c87dc43be861d1c04ec7cdfffb43f69795ea02e45bfb8e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x4bfac904496a27b39231cb82b8a9323d93a7ae4c"
-            },
-            "receiverAddress":{
-              "id":"0x427d8ce3220729c5ad0649182ca2f6d796d519b8"
-            },
-            "amount":"0.1218367346938775510204081632653061",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x427d8ce3220729c5ad0649182ca2f6d796d519b8"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1218367346938775510204081632653061",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989367,
-      "blockNumber":16677444
-    }
-  },
-  "75":{
-    "sales":{
-      "transaction":{
-        "id":"0xbfb4e4b42e808977ead977a174fc8e8826528bf708872e7ee003db348c618697",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe3100cc5c5f9bb083652b2ad41214d8940bcbd6e"
-            },
-            "receiverAddress":{
-              "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
-            },
-            "amount":"1.014189285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":null,
-                "name":null
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
-            },
-            "receiverAddress":{
-              "id":"0xe5d4924413ae59ae717358526bbe11bb4a5d76b9"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":null,
-                "name":null
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe5d4924413ae59ae717358526bbe11bb4a5d76b9"
-      },
-      "platform":"X2Y2",
-      "amount":"1.014189285714285714285714285714286",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989391,
-      "blockNumber":16677446
-    }
-  },
-  "76":{
-    "sales":{
-      "transaction":{
-        "id":"0xbdd9b589db2334d2e44240e7537f68a8a23bb3d2a8db1efdb5b3ee4aaefd2048",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe96995006efc68f5eb9f9e46aba26e9f1e3e967e"
-            },
-            "receiverAddress":{
-              "id":"0x427d8ce3220729c5ad0649182ca2f6d796d519b8"
-            },
-            "amount":"0.1319897959183673469387755102040816",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x427d8ce3220729c5ad0649182ca2f6d796d519b8"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1319897959183673469387755102040816",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989403,
-      "blockNumber":16677447
-    }
-  },
-  "77":{
-    "sales":{
-      "transaction":{
-        "id":"0x05e67920519558bf4ce8b474bbf380080fb817a1ff9afa5476002a4c3bb9381b",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xe96995006efc68f5eb9f9e46aba26e9f1e3e967e"
-            },
-            "receiverAddress":{
-              "id":"0x8efb1e3400e019501c890490b28d7083040b6b9d"
-            },
-            "amount":"0.1624489795918367346938775510204082",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x8efb1e3400e019501c890490b28d7083040b6b9d"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1624489795918367346938775510204082",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989499,
-      "blockNumber":16677455
-    }
-  },
-  "78":{
-    "sales":{
-      "transaction":{
-        "id":"0xf419e83bc2da4adda4554d8beada4d253eae03427cdb0380b828fb7aadd79da7",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8efb1e3400e019501c890490b28d7083040b6b9d"
-            },
-            "receiverAddress":{
-              "id":"0x35d1b2b9395f44033ec88edb286dcd93a1ee83c5"
-            },
-            "amount":"0.1421428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x35d1b2b9395f44033ec88edb286dcd93a1ee83c5"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1421428571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989619,
-      "blockNumber":16677465
-    }
-  },
-  "79":{
-    "sales":{
-      "transaction":{
-        "id":"0x2eed32895a86f5d7d3581e2f12012c44065ccc087b1890d61ac5cda59dc5d698",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f"
-            },
-            "receiverAddress":{
-              "id":"0x4f88086927af86002a4613538d3c76ce9f4e6617"
-            },
-            "amount":"0.007040816326530612244897959183673469",
-            "token":{
-              "collection":{
-                "symbol":"Captainz",
-                "name":"Captainz"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4f88086927af86002a4613538d3c76ce9f4e6617"
-      },
-      "platform":"X2Y2",
-      "amount":"0.007040816326530612244897959183673469",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989631,
-      "blockNumber":16677466
-    }
-  },
-  "80":{
-    "sales":{
-      "transaction":{
-        "id":"0x5fc17c265f60b99bca8d60732867bcff92f888232b118394dc7917d8ca6983e3",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xbcc84dd5456fab41d2abe9d54c7a1abc8e74cd7e"
-            },
-            "receiverAddress":{
-              "id":"0xef9c3572a7194d829f5742f5299418db1f9f00a7"
-            },
-            "amount":"0.1494530612244897959183673469387755",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xef9c3572a7194d829f5742f5299418db1f9f00a7"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1494530612244897959183673469387755",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989631,
-      "blockNumber":16677466
-    }
-  },
-  "81":{
-    "sales":{
-      "transaction":{
-        "id":"0x84d02f7e1911ac86f1d850736e07291708ceea88f40735a796a52563cd5e4d13",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
-            },
-            "receiverAddress":{
-              "id":"0xdde4d77cfd63fc6956485218da37dd59f27a523c"
-            },
-            "amount":"0.6383673469387755102040816326530612",
+            "amount":"2.295918367346938775510204081632653",
             "token":{
               "collection":{
                 "symbol":"M.F",
@@ -4643,908 +647,68 @@
             }
           }
         ],
-        "transactionFrom":"0xdde4d77cfd63fc6956485218da37dd59f27a523c"
+        "transactionFrom":"0x992039055f361d66229933327459d30e67a614a0"
       },
       "platform":"X2Y2",
-      "amount":"0.6383673469387755102040816326530612",
+      "amount":"2.295918367346938775510204081632653",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676989679,
-      "blockNumber":16677470
+      "timestamp":1677255407,
+      "blockNumber":16699321
     }
   },
-  "82":{
+  "20":{
     "sales":{
       "transaction":{
-        "id":"0xf3d067162d6b2b09e304d6c1e3111f4fc9894ef188303531f0b4cf8552acb9f6",
+        "id":"0x8f383d553a5fb4714c1acc7326e9553b71930c47cb3d17d7050045187b37a9c4",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x8c1a41e4ef75e5c91ed335d1928c308bd30bba00"
+              "id":"0xe852c2189316ec5eee9f36272962ade430f38531"
             },
             "receiverAddress":{
-              "id":"0x5390b04839c6ebaa765886e1ede2bce7116e462f"
+              "id":"0x975d07636e8ca4d78f77ef86cdbd5f8cb3923b8e"
             },
-            "amount":"0.1644795918367346938775510204081633",
+            "amount":"0.339",
             "token":{
               "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
+                "symbol":"LION",
+                "name":"Lazy Lions"
               }
             }
           }
         ],
-        "transactionFrom":"0x5390b04839c6ebaa765886e1ede2bce7116e462f"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1644795918367346938775510204081633",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989691,
-      "blockNumber":16677471
-    }
-  },
-  "83":{
-    "sales":{
-      "transaction":{
-        "id":"0xda2df39cffe1bd345bba1ffcc0f3083356ac24ffd0da8d145be167fc38916897",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f"
-            },
-            "receiverAddress":{
-              "id":"0x4f88086927af86002a4613538d3c76ce9f4e6617"
-            },
-            "amount":"0.007040816326530612244897959183673469",
-            "token":{
-              "collection":{
-                "symbol":"Captainz",
-                "name":"Captainz"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4f88086927af86002a4613538d3c76ce9f4e6617"
-      },
-      "platform":"X2Y2",
-      "amount":"0.007040816326530612244897959183673469",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989715,
-      "blockNumber":16677473
-    }
-  },
-  "84":{
-    "sales":{
-      "transaction":{
-        "id":"0xa743ed85c50f552861746f5800353616e33dce11f9cdeb7f9f7fd373889c1bf8",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.04",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
+        "transactionFrom":"0x975d07636e8ca4d78f77ef86cdbd5f8cb3923b8e"
       },
       "platform":"LooksRare",
-      "amount":"0.04",
+      "amount":"0.339",
       "currency":{
         "name":"Wrapped Ether",
         "symbol":"WETH"
       },
-      "timestamp":1676989811,
-      "blockNumber":16677481
+      "timestamp":1677255419,
+      "blockNumber":16699322
     }
   },
-  "85":{
+  "21":{
     "sales":{
       "transaction":{
-        "id":"0xa743ed85c50f552861746f5800353616e33dce11f9cdeb7f9f7fd373889c1bf8",
+        "id":"0x20bfac6a13bb879c14d47fcf32c48b7b6159c53e8ecec082e2cb3ed71ff60da4",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.04",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-      },
-      "platform":"LooksRare",
-      "amount":"0.04",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676989811,
-      "blockNumber":16677481
-    }
-  },
-  "86":{
-    "sales":{
-      "transaction":{
-        "id":"0xa743ed85c50f552861746f5800353616e33dce11f9cdeb7f9f7fd373889c1bf8",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.04",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x635b53a9887228efd06db7340b323ddda1e1ab40"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.02",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"PASSENGERS",
-                "name":"Passengers_Minting_Contract"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x5163aba6913472db9f73df1e27090b45a2ad365d"
-      },
-      "platform":"LooksRare",
-      "amount":"0.04",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1676989811,
-      "blockNumber":16677481
-    }
-  },
-  "87":{
-    "sales":{
-      "transaction":{
-        "id":"0x675971736525b6458390e85df8a82580faa9b22b829794f003093f9824e346ec",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8c1a41e4ef75e5c91ed335d1928c308bd30bba00"
-            },
-            "receiverAddress":{
-              "id":"0x3e5e804c0f347b1599adf142c47baff6a7e37b67"
-            },
-            "amount":"0.1319897959183673469387755102040816",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x3e5e804c0f347b1599adf142c47baff6a7e37b67"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1319897959183673469387755102040816",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989823,
-      "blockNumber":16677482
-    }
-  },
-  "88":{
-    "sales":{
-      "transaction":{
-        "id":"0x56bb59773dd99f7e57d11a957e6c9c6dcbc375de01c528ee9f8386cd7016d6df",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.1299591836734693877551020408163265",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x3c4e3fdb4a8820561a450430f590ea30e1a04954"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1299591836734693877551020408163265",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989895,
-      "blockNumber":16677488
-    }
-  },
-  "89":{
-    "sales":{
-      "transaction":{
-        "id":"0x56bb59773dd99f7e57d11a957e6c9c6dcbc375de01c528ee9f8386cd7016d6df",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.1299591836734693877551020408163265",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x3c4e3fdb4a8820561a450430f590ea30e1a04954"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-      },
-      "platform":"X2Y2",
-      "amount":"0.128943877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989895,
-      "blockNumber":16677488
-    }
-  },
-  "90":{
-    "sales":{
-      "transaction":{
-        "id":"0x56bb59773dd99f7e57d11a957e6c9c6dcbc375de01c528ee9f8386cd7016d6df",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.1299591836734693877551020408163265",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x3c4e3fdb4a8820561a450430f590ea30e1a04954"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.0644719387755102040816326530612245",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x76ae7078d5b9f62f674ad0ebf1413d4df8e73b87"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.06497959183673469387755102040816325",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4b75ee116acdec99c285410f08bdb02d11516384"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1299591836734693877551020408163265",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676989895,
-      "blockNumber":16677488
-    }
-  },
-  "91":{
-    "sales":{
-      "transaction":{
-        "id":"0xa092605828edd85d67b4c45d5ef82daea57cc13a44e6e92cd2cbcd1120dd93a9",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8c1a41e4ef75e5c91ed335d1928c308bd30bba00"
-            },
-            "receiverAddress":{
-              "id":"0x363c89e945a1ae3d89f712bc98fd77774fb09c7b"
-            },
-            "amount":"0.1147295918367346938775510204081633",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x363c89e945a1ae3d89f712bc98fd77774fb09c7b"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1147295918367346938775510204081633",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676990075,
-      "blockNumber":16677502
-    }
-  },
-  "92":{
-    "sales":{
-      "transaction":{
-        "id":"0x7306e2ee95609c4fd3dc20b8905340458022850b5fb374a744b44ed3775dfce6",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x6681dfdd8fbd06d74ac0c5940d17c36ba25e09c3"
-            },
-            "receiverAddress":{
-              "id":"0x21fc78468b490e661d48bf4d2ec465ea17ee8809"
-            },
-            "amount":"0.1106683673469387755102040816326531",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x21fc78468b490e661d48bf4d2ec465ea17ee8809"
-      },
-      "platform":"X2Y2",
-      "amount":"0.1106683673469387755102040816326531",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676990123,
-      "blockNumber":16677506
-    }
-  },
-  "93":{
-    "sales":{
-      "transaction":{
-        "id":"0xda5b0ac5b089e6ee7db5643d48b18383166b2c89e0bc5b2f88842af230d7514e",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xef9c3572a7194d829f5742f5299418db1f9f00a7"
-            },
-            "receiverAddress":{
-              "id":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
-            },
-            "amount":"0.02515928571428571428571428571428572",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xa3b6cefc43e6dca3f4380d5a5c5dce7071ed2bd6"
-            },
-            "receiverAddress":{
-              "id":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
-            },
-            "amount":"0.02515928571428571428571428571428572",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x2c72a7bb678beaae09d4934e485123437b4401e6"
-            },
-            "receiverAddress":{
-              "id":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
-            },
-            "amount":"0.02515928571428571428571428571428572",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x958e3952ab1e5fa19e6231e29ae610e8beb2b542"
-            },
-            "receiverAddress":{
-              "id":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
-            },
-            "amount":"0.02515928571428571428571428571428572",
-            "token":{
-              "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x8526e4f21d060ef0ef2e69d2a00392e82eefa63d"
+              "id":"0xaf38ba78084fcb396ae91a4c6528af88b6f5ae1a"
             },
             "receiverAddress":{
               "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
             },
-            "amount":"0.02515928571428571428571428571428572",
+            "amount":"0.2436734693877551020408163265306122",
             "token":{
               "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
+                "symbol":null,
+                "name":null
               }
             }
           },
@@ -5553,240 +717,159 @@
               "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
             },
             "receiverAddress":{
-              "id":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
+              "id":"0x0d1f2c041b7f9702903b89057c1f57f1f01a79af"
             },
             "amount":"0",
             "token":{
               "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
+                "symbol":null,
+                "name":null
               }
             }
           }
         ],
-        "transactionFrom":"0x2fa3a9848186642b257401c8b1b79770ba46ac50"
+        "transactionFrom":"0x0d1f2c041b7f9702903b89057c1f57f1f01a79af"
       },
       "platform":"X2Y2",
-      "amount":"0.1257964285714285714285714285714286",
+      "amount":"0.2436734693877551020408163265306122",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676990135,
-      "blockNumber":16677507
+      "timestamp":1677255491,
+      "blockNumber":16699328
     }
   },
-  "94":{
+  "22":{
     "sales":{
       "transaction":{
-        "id":"0x94d1c721a2291732ff4df298f9294dd4a11c833ebd439f27e2e6dd2a86ff7d15",
+        "id":"0x78fc8f3542c2d2abf0ef7db8c58b0cb552589f0bf1966bc8f4dbcfced8fc0fd0",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x684456574df5d34253de17e66a666a5e975d4577"
+              "id":"0x61db9a6b193611cb41e59f95a0c8421049291748"
             },
             "receiverAddress":{
-              "id":"0x04f3c550216a29fdea8c7cf56823b7ed2fff8eff"
+              "id":"0x644aff6afa0aa028658e5d143f43f50432a25d2e"
             },
-            "amount":"0.1106683673469387755102040816326531",
+            "amount":"0.1431581632653061224489795918367347",
             "token":{
               "collection":{
-                "symbol":"MAD",
-                "name":"MAD about crypto street-art"
+                "symbol":"CARAVAGGIO",
+                "name":"Caravaggio Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0x04f3c550216a29fdea8c7cf56823b7ed2fff8eff"
+        "transactionFrom":"0x644aff6afa0aa028658e5d143f43f50432a25d2e"
       },
       "platform":"X2Y2",
-      "amount":"0.1106683673469387755102040816326531",
+      "amount":"0.1431581632653061224489795918367347",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676990279,
-      "blockNumber":16677519
+      "timestamp":1677255503,
+      "blockNumber":16699329
     }
   },
-  "95":{
+  "23":{
     "sales":{
       "transaction":{
-        "id":"0xea8ac59bcf023110ecbb1a0cd37146d5f42bddc4aafbf91a417ff0dca5ccf4d0",
+        "id":"0x4445b983e592fff07b316b1f9be330f452e2f6621d5359102e5f997a9df0eb7f",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
+              "id":"0x61db9a6b193611cb41e59f95a0c8421049291748"
             },
             "receiverAddress":{
-              "id":"0xc34349fbedd527215aae19b2e4626254ec29a13d"
+              "id":"0xcce3b99ddf68baea82689c0e51bb4d5d875df0e4"
             },
-            "amount":"0.1726020408163265306122448979591837",
+            "amount":"0.1634642857142857142857142857142857",
             "token":{
               "collection":{
-                "symbol":"MOAR",
-                "name":"MOAR by Joan Cornella"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xc34349fbedd527215aae19b2e4626254ec29a13d"
-            },
-            "receiverAddress":{
-              "id":"0xd5a6c61f02e4212dec386f09c1670bdb300690e9"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"MOAR",
-                "name":"MOAR by Joan Cornella"
+                "symbol":"CARAVAGGIO",
+                "name":"Caravaggio Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0x34488a82f2825e538e050673b14e8ab18c2b12a6"
+        "transactionFrom":"0xcce3b99ddf68baea82689c0e51bb4d5d875df0e4"
       },
       "platform":"X2Y2",
-      "amount":"0.1726020408163265306122448979591837",
+      "amount":"0.1634642857142857142857142857142857",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1676990315,
-      "blockNumber":16677522
+      "timestamp":1677255623,
+      "blockNumber":16699338
     }
   },
-  "96":{
+  "24":{
     "sales":{
       "transaction":{
-        "id":"0x56953a7a77a50183773d16d843c9079ab7d7991e12cf076cb560ddf46159475c",
+        "id":"0xc07f48078ba722c8ca1a93bc68f6f8a28e88f5055eff6b85909bd4807acbaeac",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x4bc15535beb2128e6debb7b60dbd65bcba73943a"
+              "id":"0x54cb92c4a79b1f4eb665722321671b8ea38ea738"
             },
             "receiverAddress":{
-              "id":"0x0bce16132e7b8777f97c9ecb207a716d45d822f9"
+              "id":"0x7e5ccbf79f81baf0430a9ed8208580c7157f143c"
             },
-            "amount":"0.1530612244897959183673469387755102",
+            "amount":"0.311",
             "token":{
               "collection":{
-                "symbol":"Cat Coin Bank",
-                "name":"Murakami Lucky Cat Coin Bank"
+                "symbol":"CHECKS",
+                "name":"Checks"
               }
             }
           }
         ],
-        "transactionFrom":"0x0bce16132e7b8777f97c9ecb207a716d45d822f9"
+        "transactionFrom":"0x54cb92c4a79b1f4eb665722321671b8ea38ea738"
       },
-      "platform":"X2Y2",
-      "amount":"0.1530612244897959183673469387755102",
+      "platform":"LooksRare",
+      "amount":"0.311",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676990351,
-      "blockNumber":16677525
+      "timestamp":1677255623,
+      "blockNumber":16699338
     }
   },
-  "97":{
+  "25":{
     "sales":{
       "transaction":{
-        "id":"0xc4e2e7ce5733a75df077c05f634d2d6eafc4833c98037e8a616becc414b1dda3",
+        "id":"0x2dbc76a8825726da6d044aa8acf29cf9bb056cbdf3c5fdd22e66daab5bc7f0a0",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xa43a8b5ca81ccfede49c7435d2cd89cd12e12845"
+              "id":"0xdf994f4424f75f0fe0c95edcd524b875ee2c705b"
             },
             "receiverAddress":{
-              "id":"0x7382bcf0bda75e8cfdf5d5d7515c6aa59d480a04"
+              "id":"0xd41d6ff5d6b1c754d2de6ab1c800e1c934770464"
             },
-            "amount":"0.06653571428571428571428571428571429",
+            "amount":"0.07",
             "token":{
               "collection":{
-                "symbol":"MONLAND",
-                "name":"Defimons Apartments"
+                "symbol":"SVCC",
+                "name":"Sand Vegas Casino Club"
               }
             }
           }
         ],
-        "transactionFrom":"0x7382bcf0bda75e8cfdf5d5d7515c6aa59d480a04"
+        "transactionFrom":"0xd41d6ff5d6b1c754d2de6ab1c800e1c934770464"
       },
-      "platform":"X2Y2",
-      "amount":"0.06653571428571428571428571428571429",
+      "platform":"LooksRare",
+      "amount":"0.07",
       "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
       },
-      "timestamp":1676990375,
-      "blockNumber":16677527
-    }
-  },
-  "98":{
-    "sales":{
-      "transaction":{
-        "id":"0x047ba8c0e4c01de61534523c1c0fcd253631396086a830f3de6a310ee02c7a47",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xd035a780deccf7808875c6a555937b7c44299f45"
-            },
-            "receiverAddress":{
-              "id":"0x1a2c8997a9b9c2cde1647cde90fa8315a9f68a2b"
-            },
-            "amount":"14.28571428571428571428571428571429",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x1a2c8997a9b9c2cde1647cde90fa8315a9f68a2b"
-      },
-      "platform":"X2Y2",
-      "amount":"14.28571428571428571428571428571429",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676990483,
-      "blockNumber":16677536
-    }
-  },
-  "99":{
-    "sales":{
-      "transaction":{
-        "id":"0x61be0321df2d291d96315441c0dc258e2a3daacdf962bb787daf43f073d62b7c",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x205410fa2246bdd108a13d385fe83f1dc5133279"
-            },
-            "receiverAddress":{
-              "id":"0x470ed18ec46a58b7cb4ee0938f19cf32d52d5366"
-            },
-            "amount":"17.85714285714285714285714285714286",
-            "token":{
-              "collection":{
-                "symbol":"AZUKI",
-                "name":"Azuki"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x470ed18ec46a58b7cb4ee0938f19cf32d52d5366"
-      },
-      "platform":"X2Y2",
-      "amount":"17.85714285714285714285714285714286",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1676990495,
-      "blockNumber":16677537
+      "timestamp":1677255827,
+      "blockNumber":16699355
     }
   }
 }

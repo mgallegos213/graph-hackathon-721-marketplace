@@ -19,13 +19,13 @@ import pandas as pd
 # }
 # """
 
-# Do steps of 1000 blocks, first 100 per that thousand as per the Graph's query limit
-# Should hit 50 times, meaning about a week of
+# Do steps of 300 blocks, first 100 per that 300 as per the Graph's query limit
+# Should show us most of the NFT data for the past week or so.
 fileCounter = 0;
-for i in range(16708664, 16658664, -1000):
+for i in range(16708664, 16658664, -300):
     salesPerThousandBlocksQuery = f"""
     {{
-        sales(first: 100, where: {{ blockNumber_lte: {i}, blockNumber_gte: {i-1000} }}) {{
+        sales(first: 100, where: {{ blockNumber_lte: {i}, blockNumber_gte: {i-300} }}) {{
             transaction {{
                 id
                 transfers {{

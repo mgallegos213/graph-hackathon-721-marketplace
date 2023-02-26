@@ -2,382 +2,580 @@
   "0":{
     "sales":{
       "transaction":{
-        "id":"0x90ff15a2e5973a5f0b3e07b87b7d19881fedb94c7db6f0731bd2871e82808e53",
+        "id":"0x8119cff32fcb76a8137dba18c6ddaa445b7446a8e33adce825327378c9715733",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xc7b438bf83ad6f69bd8409be5faf5c2dbde624e3"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
             "receiverAddress":{
-              "id":"0xd389e3272be2dd07aca708dd4055d7d5c2f94883"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
-            "amount":"0.006876530612244897959183673469387755",
+            "amount":"58.07551020408163265306122448979592",
             "token":{
               "collection":{
-                "symbol":"DD",
-                "name":"DeadDegens"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x0d4afc46abfadd813ece4a9b182636a814f95117"
-            },
-            "receiverAddress":{
-              "id":"0xd389e3272be2dd07aca708dd4055d7d5c2f94883"
-            },
-            "amount":"0.006876530612244897959183673469387755",
-            "token":{
-              "collection":{
-                "symbol":"DD",
-                "name":"DeadDegens"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xf1f025ff4c597aecba27c4d5db019db6a5f26b82"
-            },
-            "receiverAddress":{
-              "id":"0xd389e3272be2dd07aca708dd4055d7d5c2f94883"
-            },
-            "amount":"0.006876530612244897959183673469387755",
-            "token":{
-              "collection":{
-                "symbol":"DD",
-                "name":"DeadDegens"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x1b0014f89c6ebc4a5fa229cfd11c6d2b8bed0e3a"
-            },
-            "receiverAddress":{
-              "id":"0x9c049c5a973e9637cdf5f7c31b93ec074161d2fe"
-            },
-            "amount":"0.006876530612244897959183673469387755",
-            "token":{
-              "collection":{
-                "symbol":"DD",
-                "name":"DeadDegens"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x9c049c5a973e9637cdf5f7c31b93ec074161d2fe"
-            },
-            "receiverAddress":{
-              "id":"0xd389e3272be2dd07aca708dd4055d7d5c2f94883"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DD",
-                "name":"DeadDegens"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0xd389e3272be2dd07aca708dd4055d7d5c2f94883"
+        "transactionFrom":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
       },
       "platform":"X2Y2",
-      "amount":"0.02750612244897959183673469387755102",
+      "amount":"58.07551020408163265306122448979592",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677320555,
-      "blockNumber":16704681
+      "timestamp":1677354659,
+      "blockNumber":16707478
     }
   },
   "1":{
     "sales":{
       "transaction":{
-        "id":"0x2127b9cb18a8a9af39507b844ccf12ce6b00f7b44d5157368694aa6c36bee6ab",
+        "id":"0xbea753a96faa009188812d330b45ead7c7a2fa65ed73bfffc4c8ced6b5495880",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x4eeecb3713fa5c396597f2cdd3e87108f6d12ea4"
+              "id":"0x467347a88d856e088a5684c1dec0de7b8f457c4b"
             },
             "receiverAddress":{
-              "id":"0xd2749e7729d61b8daf41f4e26f5bf5d0047481ed"
+              "id":"0x668c6f0c4995e948e47b0c6ce766cd9afa405f9a"
             },
-            "amount":"0.07714285714285714285714285714285714",
+            "amount":"0.7142857142857142857142857142857143",
             "token":{
               "collection":{
-                "symbol":"CNRS",
-                "name":"The Connors"
+                "symbol":"Kubz",
+                "name":"Kubz"
               }
             }
           }
         ],
-        "transactionFrom":"0xd2749e7729d61b8daf41f4e26f5bf5d0047481ed"
+        "transactionFrom":"0x668c6f0c4995e948e47b0c6ce766cd9afa405f9a"
       },
       "platform":"X2Y2",
-      "amount":"0.07714285714285714285714285714285714",
+      "amount":"0.7142857142857142857142857142857143",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677321167,
-      "blockNumber":16704729
+      "timestamp":1677354683,
+      "blockNumber":16707480
     }
   },
   "2":{
     "sales":{
       "transaction":{
-        "id":"0x0511eaaa1b945f33d69da0c59b0baab468eaa938fe20ced81b78072269c3a053",
+        "id":"0x1c0ad96a9d71d27fb8bbd5df453c980a54f92f3e81987e17fef5a583a7d1fa9b",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x09564716e12eb2ca51f64d07d76aa88b7cdc0283"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
             "receiverAddress":{
-              "id":"0x9dc3adac6d5cd4af26ad7d89730c9b5aee5a129a"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
-            "amount":"2.551020408163265306122448979591837",
+            "amount":"58.6643877551020408163265306122449",
             "token":{
               "collection":{
-                "symbol":"RENGA",
-                "name":"RENGA"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0x9dc3adac6d5cd4af26ad7d89730c9b5aee5a129a"
+        "transactionFrom":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
       },
       "platform":"X2Y2",
-      "amount":"2.551020408163265306122448979591837",
+      "amount":"58.6643877551020408163265306122449",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677321407,
-      "blockNumber":16704748
+      "timestamp":1677354767,
+      "blockNumber":16707487
     }
   },
   "3":{
     "sales":{
       "transaction":{
-        "id":"0x1b4f2b4cc15cf6c21617611db6715acf1124f0b331231d08ce46bcafc9176209",
+        "id":"0xba92952e54e8839ad3015660622eed91229fbe023b5dea895e25c9584c8356d8",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
             "receiverAddress":{
-              "id":"0xcb8c1fe534aafa4f1e7036ea0d33fc86d1e7e403"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
-            "amount":"0.144683",
+            "amount":"58.38010204081632653061224489795918",
             "token":{
               "collection":{
-                "symbol":"PSEUDO",
-                "name":"Pseudo Krakens"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
+        "transactionFrom":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
       },
-      "platform":"LooksRare",
-      "amount":"0.144683",
+      "platform":"X2Y2",
+      "amount":"58.38010204081632653061224489795918",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1677321575,
-      "blockNumber":16704762
+      "timestamp":1677354815,
+      "blockNumber":16707491
     }
   },
   "4":{
     "sales":{
       "transaction":{
-        "id":"0xa626356af80e77b32b86230b2232af498d3e1bce463438f7e7c68a1ec6a2c64b",
+        "id":"0x3d218aa6dc62634c1bf4bc76dbd1ad7a1606a3b3ac9a7a20887962326b236a62",
         "transfers":[
           {
             "senderAddress":{
               "id":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
             },
             "receiverAddress":{
-              "id":"0x967b073201215cabbbc0f1c1f2b258683b495cb4"
+              "id":"0x38496bf050162b44dedbe4eab89627f844b61427"
             },
-            "amount":"0.137",
+            "amount":"0.01369897959183673469387755102040816",
             "token":{
               "collection":{
-                "symbol":"LILNOUN",
-                "name":"LilNoun"
+                "symbol":"STICK",
+                "name":"Stickmen Toys"
               }
             }
           }
         ],
-        "transactionFrom":"0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf"
+        "transactionFrom":"0x38496bf050162b44dedbe4eab89627f844b61427"
       },
-      "platform":"LooksRare",
-      "amount":"0.137",
+      "platform":"X2Y2",
+      "amount":"0.01369897959183673469387755102040816",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1677321587,
-      "blockNumber":16704763
+      "timestamp":1677354827,
+      "blockNumber":16707492
     }
   },
   "5":{
     "sales":{
       "transaction":{
-        "id":"0x6400617d5b22f6f449cd1169e6a1d55b86167df3d151f68c4466e6c14114b80b",
+        "id":"0x129f1c5bee43de7b555ce83217133e6e5adbde17e8ff5b8c10b2d99334997d4a",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
             "receiverAddress":{
-              "id":"0x562607a01a12e84a4abe025ac14ab1e36b76519f"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
-            "amount":"0.74950178555507968",
+            "amount":"58.07551020408163265306122448979592",
             "token":{
               "collection":{
-                "symbol":"QRKS",
-                "name":"Quirkies"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
+        "transactionFrom":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
       },
-      "platform":"LooksRare",
-      "amount":"0.74950178555507968",
+      "platform":"X2Y2",
+      "amount":"58.07551020408163265306122448979592",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1677322151,
-      "blockNumber":16704809
+      "timestamp":1677354887,
+      "blockNumber":16707496
     }
   },
   "6":{
     "sales":{
       "transaction":{
-        "id":"0x35845514b1eda9979aa6fe4baa17f579e5173a05f1377303e3aa4e7e1dd3d075",
+        "id":"0xe69f96df638de51414bbde83873da764b835e79dac96982e006871d7ab4ef292",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
             "receiverAddress":{
-              "id":"0x73b9b4ab21ad26887d40534cd75ba991654a44ff"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
-            "amount":"0.7498017855550797",
+            "amount":"57.77091836734693877551020408163265",
             "token":{
               "collection":{
-                "symbol":"QRKS",
-                "name":"Quirkies"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
+        "transactionFrom":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
       },
-      "platform":"LooksRare",
-      "amount":"0.7498017855550797",
+      "platform":"X2Y2",
+      "amount":"57.77091836734693877551020408163265",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1677322211,
-      "blockNumber":16704814
+      "timestamp":1677354947,
+      "blockNumber":16707501
     }
   },
   "7":{
     "sales":{
       "transaction":{
-        "id":"0x17aa935360982e64b1f484b8a771dbc0236a237b861c62ac7f338650b9283623",
+        "id":"0x3b832c2de2519e26cf9564789fddc0e8fda8e4483c7e5f5e8c1206853bb5f94e",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x8d032b37d292065cec945661abb189de5ed93c22"
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
             },
             "receiverAddress":{
-              "id":"0x562607a01a12e84a4abe025ac14ab1e36b76519f"
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
             },
-            "amount":"0.750551587340634624",
+            "amount":"57.46632653061224489795918367346939",
             "token":{
               "collection":{
-                "symbol":"QRKS",
-                "name":"Quirkies"
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
               }
             }
           }
         ],
-        "transactionFrom":"0x8d032b37d292065cec945661abb189de5ed93c22"
+        "transactionFrom":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
       },
-      "platform":"LooksRare",
-      "amount":"0.750551587340634624",
+      "platform":"X2Y2",
+      "amount":"57.46632653061224489795918367346939",
       "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
+        "name":"Ether",
+        "symbol":"ETH"
       },
-      "timestamp":1677322271,
-      "blockNumber":16704819
+      "timestamp":1677355007,
+      "blockNumber":16707506
     }
   },
   "8":{
     "sales":{
       "transaction":{
-        "id":"0x5bd1df8d0bad014d9f7fa4c2bc21f895c87a939ee7627eed1dac71cba4e2545c",
+        "id":"0x605c49cb8b9b0c81ba90ea08518879119cd7af9a512d65c2a6ef1c5156eabcc9",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x38c7496e6bc13f9e5cfdb5a45554d8ed346a4f7c"
+              "id":"0xfcbe7b6da18a08a86ab1beb68c7372a60ab4e331"
             },
             "receiverAddress":{
-              "id":"0x59e0b839e6dc43d52497298aa916a16c3cf8c821"
+              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
             },
-            "amount":"0.015",
+            "amount":"0.1116",
             "token":{
               "collection":{
-                "symbol":"CMCLUB",
-                "name":"Comedy Monsters Club"
+                "symbol":"PETS",
+                "name":"Cool Pets"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
+            },
+            "receiverAddress":{
+              "id":"0xbb39b074b16c761bcd6fd3cf41eb59ccc14133df"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"PETS",
+                "name":"Cool Pets"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0x0f2cba81b02ae2fca8658ef72f1ee6211ee0dd54"
+            },
+            "receiverAddress":{
+              "id":"0xbb39b074b16c761bcd6fd3cf41eb59ccc14133df"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"CCFC",
+                "name":"Cool Cats FC"
               }
             }
           }
         ],
-        "transactionFrom":"0x59e0b839e6dc43d52497298aa916a16c3cf8c821"
+        "transactionFrom":"0xbb39b074b16c761bcd6fd3cf41eb59ccc14133df"
       },
       "platform":"LooksRare",
-      "amount":"0.015",
+      "amount":"0.1116",
       "currency":{
         "name":"Wrapped Ether",
         "symbol":"WETH"
       },
-      "timestamp":1677322547,
-      "blockNumber":16704842
+      "timestamp":1677355187,
+      "blockNumber":16707521
     }
   },
   "9":{
     "sales":{
       "transaction":{
-        "id":"0x85690c9c41b608cc8b36c1c89e22275c1466ad18945387f0a246a378bfaf8719",
+        "id":"0xa39d6f47c2ac17141392ce012b688cd9c348cf60e38b98b77a9123fa63fc69ee",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xceaa33bf03475ed2ba14423fa3b544a5bfba380f"
+              "id":"0x16cf22a339e09ffc2ef5f9e90bcbb4e1d6076567"
             },
             "receiverAddress":{
-              "id":"0x346afef7e81b04aa74900a9c760994fddc256ce5"
+              "id":"0xcdb75d2831cf03b053b38df2ad20dd2e2d24e44c"
             },
-            "amount":"0.01005153061224489795918367346938776",
+            "amount":"0.04315051020408163265306122448979592",
             "token":{
               "collection":{
-                "symbol":"PB",
-                "name":"3PEACE BOX"
+                "symbol":"CHCKSOUT",
+                "name":"Checks out"
               }
             }
           }
         ],
-        "transactionFrom":"0x346afef7e81b04aa74900a9c760994fddc256ce5"
+        "transactionFrom":"0xcdb75d2831cf03b053b38df2ad20dd2e2d24e44c"
+      },
+      "platform":"X2Y2",
+      "amount":"0.04315051020408163265306122448979592",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355247,
+      "blockNumber":16707526
+    }
+  },
+  "10":{
+    "sales":{
+      "transaction":{
+        "id":"0xf6856e10874452f1d86989ee6f4fa52445cd7555acdb2167b22d5e1400154da2",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
+            },
+            "receiverAddress":{
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
+            },
+            "amount":"57.16173469387755102040816326530612",
+            "token":{
+              "collection":{
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
+      },
+      "platform":"X2Y2",
+      "amount":"57.16173469387755102040816326530612",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355259,
+      "blockNumber":16707527
+    }
+  },
+  "11":{
+    "sales":{
+      "transaction":{
+        "id":"0xb4326ce8e25d32777eb2b1481ead6acf6ffe8f6425d91a3bb6c3aa5ebbcb5703",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xcbd9387f75eb85037f2b1bea5edd3838b695b5c8"
+            },
+            "receiverAddress":{
+              "id":"0x42afead40916fe8a7ca80ffbf41f070063c0854b"
+            },
+            "amount":"0.009137755102040816326530612244897959",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x42afead40916fe8a7ca80ffbf41f070063c0854b"
+      },
+      "platform":"X2Y2",
+      "amount":"0.009137755102040816326530612244897959",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355295,
+      "blockNumber":16707530
+    }
+  },
+  "12":{
+    "sales":{
+      "transaction":{
+        "id":"0x46ee5d33c26f396aacea63b1b6e3a7157f2c8f1e8d3ddac8b80f03695a1e22a0",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xa12c5c80d594e78f7bdef9842aa234b65339bd21"
+            },
+            "receiverAddress":{
+              "id":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
+            },
+            "amount":"56.85714285714285714285714285714286",
+            "token":{
+              "collection":{
+                "symbol":"TERRAFORMS",
+                "name":"Terraforms"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x723838323693fefc199cfb5c348e7e5dbb1616ec"
+      },
+      "platform":"X2Y2",
+      "amount":"56.85714285714285714285714285714286",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355307,
+      "blockNumber":16707531
+    }
+  },
+  "13":{
+    "sales":{
+      "transaction":{
+        "id":"0xeb3b3bd5127bf12e6040884957eb70a79bb0e47fefe8e6b9a9cbcc72ce5b50dd",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0x9618a9aa887cb1cb4c4b4d3915c513a104301477"
+            },
+            "receiverAddress":{
+              "id":"0x06d6805e6a8bd2ac90d290400a6b76510c94739c"
+            },
+            "amount":"0.04264285714285714285714285714285714",
+            "token":{
+              "collection":{
+                "symbol":"ZA2",
+                "name":"Zoofrenz Apefrenz 2.0"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x06d6805e6a8bd2ac90d290400a6b76510c94739c"
+      },
+      "platform":"X2Y2",
+      "amount":"0.04264285714285714285714285714285714",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355307,
+      "blockNumber":16707531
+    }
+  },
+  "14":{
+    "sales":{
+      "transaction":{
+        "id":"0x092b9e9a32ec1a3fd1cda81aadd380b9fb8d32eb6a501c373a27577414152bd1",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xcbd9387f75eb85037f2b1bea5edd3838b695b5c8"
+            },
+            "receiverAddress":{
+              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
+            },
+            "amount":"0.00954387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
+            },
+            "receiverAddress":{
+              "id":"0xd66a130e6c81421d50d73907cf497f5006accd1a"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0x9319f04775aebf31c906c7c97e08e91b0aaf4be7"
+            },
+            "receiverAddress":{
+              "id":"0xd66a130e6c81421d50d73907cf497f5006accd1a"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xd66a130e6c81421d50d73907cf497f5006accd1a"
+      },
+      "platform":"X2Y2",
+      "amount":"0.00954387755102040816326530612244898",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677355427,
+      "blockNumber":16707541
+    }
+  },
+  "15":{
+    "sales":{
+      "transaction":{
+        "id":"0xbbc9e70a62dc6a32197d1696b5a0a7dc0170ffd41536e1297cb533b3e7239e28",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xcbd9387f75eb85037f2b1bea5edd3838b695b5c8"
+            },
+            "receiverAddress":{
+              "id":"0xcdb75d2831cf03b053b38df2ad20dd2e2d24e44c"
+            },
+            "amount":"0.01005153061224489795918367346938776",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xcdb75d2831cf03b053b38df2ad20dd2e2d24e44c"
       },
       "platform":"X2Y2",
       "amount":"0.01005153061224489795918367346938776",
@@ -385,1385 +583,104 @@
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677322667,
-      "blockNumber":16704852
-    }
-  },
-  "10":{
-    "sales":{
-      "transaction":{
-        "id":"0x4fe2ce88188c1eba97d02ab6b009a81b7b035808357ff0d9f35b95f5feda4284",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
-            },
-            "receiverAddress":{
-              "id":"0x73b9b4ab21ad26887d40534cd75ba991654a44ff"
-            },
-            "amount":"0.7508111",
-            "token":{
-              "collection":{
-                "symbol":"QRKS",
-                "name":"Quirkies"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
-      },
-      "platform":"LooksRare",
-      "amount":"0.7508111",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677322955,
-      "blockNumber":16704876
-    }
-  },
-  "11":{
-    "sales":{
-      "transaction":{
-        "id":"0x8201fceb77d87adcf05aa92025d09895938d5e8c8b80c855eee1d53094273705",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
-            },
-            "receiverAddress":{
-              "id":"0xd722755aa3d8b2e9521209ee5014d0e446b82ff5"
-            },
-            "amount":"0.751561911099999872",
-            "token":{
-              "collection":{
-                "symbol":"QRKS",
-                "name":"Quirkies"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xef1e7ec8e1894f34f4d6d6eff8d9a55233c77ca2"
-      },
-      "platform":"LooksRare",
-      "amount":"0.751561911099999872",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677323027,
-      "blockNumber":16704882
-    }
-  },
-  "12":{
-    "sales":{
-      "transaction":{
-        "id":"0x14a876bec6cf02afef7e97ce2428c18b1934ce9e6ccfbb3893c2bfea3ce67ffe",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x7ceb3b7a2180e3eaab9af37e01c90e1a8cac7489"
-            },
-            "receiverAddress":{
-              "id":"0xf4353211be3423a8946948395bb9e97bf1ac92ea"
-            },
-            "amount":"17.34693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"AZUKI",
-                "name":"Azuki"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xf4353211be3423a8946948395bb9e97bf1ac92ea"
-      },
-      "platform":"X2Y2",
-      "amount":"17.34693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677323207,
-      "blockNumber":16704897
-    }
-  },
-  "13":{
-    "sales":{
-      "transaction":{
-        "id":"0x6e3e495677b60220256a1ab3a887019bdccacd6f47296cd1184023f7319136d6",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xffd06caa72cef7aa6798f0feb8b1aec097b70304"
-            },
-            "receiverAddress":{
-              "id":"0xed2ab4948ba6a909a7751dec4f34f303eb8c7236"
-            },
-            "amount":"68.11224489795918367346938775510204",
-            "token":{
-              "collection":{
-                "symbol":"BAYC",
-                "name":"BoredApeYachtClub"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xed2ab4948ba6a909a7751dec4f34f303eb8c7236"
-      },
-      "platform":"X2Y2",
-      "amount":"68.11224489795918367346938775510204",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677323315,
-      "blockNumber":16704906
-    }
-  },
-  "14":{
-    "sales":{
-      "transaction":{
-        "id":"0xf3911cd32bf934e79af783dda391c21780e724ff82ba1a189907488cf5ff749a",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xed2ab4948ba6a909a7751dec4f34f303eb8c7236"
-            },
-            "receiverAddress":{
-              "id":"0xce5172b64f2f4eddd6f05c6e57c2ec774612e6ac"
-            },
-            "amount":"68.87755102040816326530612244897959",
-            "token":{
-              "collection":{
-                "symbol":"BAYC",
-                "name":"BoredApeYachtClub"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xce5172b64f2f4eddd6f05c6e57c2ec774612e6ac"
-      },
-      "platform":"X2Y2",
-      "amount":"68.87755102040816326530612244897959",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677323483,
-      "blockNumber":16704920
-    }
-  },
-  "15":{
-    "sales":{
-      "transaction":{
-        "id":"0x3007673fa0bfd6f11100ff9b1ea250143e58883469739222e32909bce2eed0c1",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x2838fe5b49e7e5aada8b6c025bf1c03c8c016a37"
-            },
-            "receiverAddress":{
-              "id":"0x4f927f9eb4b241dea88dcaa78a24b311991ec527"
-            },
-            "amount":"0.3622448979591836734693877551020408",
-            "token":{
-              "collection":{
-                "symbol":"MH",
-                "name":"Mutant Hounds"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4f927f9eb4b241dea88dcaa78a24b311991ec527"
-      },
-      "platform":"X2Y2",
-      "amount":"0.3622448979591836734693877551020408",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677323687,
-      "blockNumber":16704937
+      "timestamp":1677355499,
+      "blockNumber":16707547
     }
   },
   "16":{
     "sales":{
       "transaction":{
-        "id":"0x56d747d206837732238505cdb5a19e6498d64dbcecdfbd8c2df6bbead2055310",
+        "id":"0xde00eaea87db5a5c79f39ca21fab581402026331fcd307ee23d3eeb9e9288eb6",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xbe32e7599777efcdc07d4bc83bfa5ff2fad33c55"
+              "id":"0xac4def988641352b443cba4aa7dd45706fa36477"
             },
             "receiverAddress":{
-              "id":"0x7256ef4a4109fce9995097a1699b9418491749d3"
+              "id":"0xd2cab2366b5fecfce51bf1fd0a047e47452e89a9"
             },
-            "amount":"0.08630102040816326530612244897959184",
+            "amount":"0.05076530612244897959183673469387755",
             "token":{
               "collection":{
-                "symbol":"0XAI",
-                "name":"0xAI Genesis"
+                "symbol":"HDN",
+                "name":"Hoodenza"
               }
             }
           }
         ],
-        "transactionFrom":"0x7256ef4a4109fce9995097a1699b9418491749d3"
+        "transactionFrom":"0xd2cab2366b5fecfce51bf1fd0a047e47452e89a9"
       },
       "platform":"X2Y2",
-      "amount":"0.08630102040816326530612244897959184",
+      "amount":"0.05076530612244897959183673469387755",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677323819,
-      "blockNumber":16704947
+      "timestamp":1677356399,
+      "blockNumber":16707621
     }
   },
   "17":{
     "sales":{
       "transaction":{
-        "id":"0x199a4134b881a761fa256b2fecf2fc4de43fa1ae7194f4a3e6acebe6855db05f",
+        "id":"0xcb8e675cedeae86c191ba2ff1ec443bd593ae52607329264e19cbb7b8c77d130",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0xf61db89bcfa694b34c9fb74ee47797337ea3e89b"
+              "id":"0xade36882ad0783383ce4cc2b4c4c768875608102"
             },
             "receiverAddress":{
-              "id":"0x17a5116c243808633ec742aec95bd16db8e69db2"
+              "id":"0xb8ddbf243ff2a1f663eecb8be8423bb71737dea7"
             },
-            "amount":"0.1",
+            "amount":"250",
             "token":{
               "collection":{
-                "symbol":"BAYC",
-                "name":"Bored Ape Yacht Club"
+                "symbol":"MLOOT",
+                "name":"More Loot"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xb8ddbf243ff2a1f663eecb8be8423bb71737dea7"
+            },
+            "receiverAddress":{
+              "id":"0xade36882ad0783383ce4cc2b4c4c768875608102"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"MLOOT",
+                "name":"More Loot"
               }
             }
           }
         ],
-        "transactionFrom":"0x17a5116c243808633ec742aec95bd16db8e69db2"
+        "transactionFrom":"0xade36882ad0783383ce4cc2b4c4c768875608102"
       },
       "platform":"LooksRare",
-      "amount":"0.1",
+      "amount":"250",
       "currency":{
         "name":"Wrapped Ether",
         "symbol":"WETH"
       },
-      "timestamp":1677324299,
-      "blockNumber":16704987
+      "timestamp":1677356495,
+      "blockNumber":16707629
     }
   },
   "18":{
     "sales":{
       "transaction":{
-        "id":"0x08ee90d0fe9e9d0d489c293e3210dc312d9cd1a2ea02e9a5faca5401fd6cc3f3",
+        "id":"0x56b7830c52f05f95878a1f52b39af49f49fc1e6ef6b9b29a74242f31d539fe25",
         "transfers":[
           {
             "senderAddress":{
-              "id":"0x43f0bec43b1499bedb122e911d6fca9e7693ef1c"
+              "id":"0x4c6686ed75d0c6685cc26fdab818cb975b5256e3"
             },
             "receiverAddress":{
-              "id":"0xbb1513f5e6b7512f7fddfe1d26918eb58eb6b37e"
+              "id":"0xc216bf3423bc19a03b06f1e5bc9e4f00d0e806c2"
             },
-            "amount":"0.11",
-            "token":{
-              "collection":{
-                "symbol":"BAYC",
-                "name":"Bored Ape Yacht Club"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xbb1513f5e6b7512f7fddfe1d26918eb58eb6b37e"
-      },
-      "platform":"LooksRare",
-      "amount":"0.11",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677324491,
-      "blockNumber":16705003
-    }
-  },
-  "19":{
-    "sales":{
-      "transaction":{
-        "id":"0x9c6227d88bc497e19459ea304ba37c99970629bce08cbbd07c0854080ac2d4de",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x4a8ab8e19ed82d2a42c3d9bbb275fe9aaf1f7717"
-            },
-            "receiverAddress":{
-              "id":"0x58dc53f7175fdd30c70ab5717c6e91edd8aed017"
-            },
-            "amount":"3.571428571428571428571428571428571",
-            "token":{
-              "collection":{
-                "symbol":"KPRV2",
-                "name":"Keepers V2"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x58dc53f7175fdd30c70ab5717c6e91edd8aed017"
-      },
-      "platform":"X2Y2",
-      "amount":"3.571428571428571428571428571428571",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677325079,
-      "blockNumber":16705051
-    }
-  },
-  "20":{
-    "sales":{
-      "transaction":{
-        "id":"0x9426df9441747350d2cd601aa4891cb1be142884f4c8972cfe24f23575f71ee1",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xc6b1851514e2b630cf42ee34b64a8c1363a2326d"
-            },
-            "receiverAddress":{
-              "id":"0xd08cc5cbd1012c6c4ef7a47c047dec036d51d54f"
-            },
-            "amount":"1.735740834124735083",
-            "token":{
-              "collection":{
-                "symbol":"OTHR",
-                "name":"Otherdeed"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xd08cc5cbd1012c6c4ef7a47c047dec036d51d54f"
-      },
-      "platform":"LooksRare",
-      "amount":"1.735740834124735083",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677325115,
-      "blockNumber":16705054
-    }
-  },
-  "21":{
-    "sales":{
-      "transaction":{
-        "id":"0xf5b183fbaa5709098887f40be3ca657b83e1795b830a409732af9a4977c10753",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x0d97c7b22eb4b8b9f4b272371ae84156483c014a"
-            },
-            "receiverAddress":{
-              "id":"0xadc572b34f685dd1c12c5d1b592877f68fe5bbb0"
-            },
-            "amount":"0.003959693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"Boo",
-                "name":"BooBirds"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xadc572b34f685dd1c12c5d1b592877f68fe5bbb0"
-      },
-      "platform":"X2Y2",
-      "amount":"0.003959693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677325319,
-      "blockNumber":16705071
-    }
-  },
-  "22":{
-    "sales":{
-      "transaction":{
-        "id":"0x3cdd1118769f8e0018c808cfad9cfb8f0d910524f14ac23c8afcf9b994aa8cb4",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x6d683d5be106ca54abb71a72ff3287eb1fb74cab"
-            },
-            "receiverAddress":{
-              "id":"0x6118538ad06e51ac5d94796e58402d73ec0ec7ae"
-            },
-            "amount":"0.4",
-            "token":{
-              "collection":{
-                "symbol":"SLOTIE",
-                "name":"Slotie"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x6118538ad06e51ac5d94796e58402d73ec0ec7ae"
-      },
-      "platform":"LooksRare",
-      "amount":"0.4",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677326111,
-      "blockNumber":16705133
-    }
-  },
-  "23":{
-    "sales":{
-      "transaction":{
-        "id":"0x19921153462ef1b537fb3a312f9deb76577f7e492808264978c6a19bb3b5d028",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xdf2c823e219a0c50b8fda1338936334003676811"
-            },
-            "receiverAddress":{
-              "id":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-            },
-            "amount":"0.068",
-            "token":{
-              "collection":{
-                "symbol":"EPASS",
-                "name":"EDUCATION PASSPORT NFT"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-      },
-      "platform":"LooksRare",
-      "amount":"0.068",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677326387,
-      "blockNumber":16705155
-    }
-  },
-  "24":{
-    "sales":{
-      "transaction":{
-        "id":"0x4045552c8466ce4446af5c86588ab72f134f9860dff74524e57ef56b0a9efcac",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x2b3ebdd8a188e6aeee8d3b5ed69f61c83646d398"
-            },
-            "receiverAddress":{
-              "id":"0xef531a3b133fc361de47a453f6bd163dc95cba01"
-            },
-            "amount":"0.9408163265306122448979591836734694",
-            "token":{
-              "collection":{
-                "symbol":"KARMA",
-                "name":"Karma"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xef531a3b133fc361de47a453f6bd163dc95cba01"
-      },
-      "platform":"X2Y2",
-      "amount":"0.9408163265306122448979591836734694",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677326615,
-      "blockNumber":16705174
-    }
-  },
-  "25":{
-    "sales":{
-      "transaction":{
-        "id":"0x8008f42c5c292cf9f0eed1c5dfd258353c7c2c0c20bde9c1cd7d8033381a4b6a",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xa8e271757646dcfedd392f280334f7c5230c2b23"
-            },
-            "receiverAddress":{
-              "id":"0xa3c30e6a7f26211e43d1bd023813e0967b345615"
-            },
-            "amount":"0.003959693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"BASEINTRODUCED",
-                "name":"Base, Introduced"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xa3c30e6a7f26211e43d1bd023813e0967b345615"
-      },
-      "platform":"X2Y2",
-      "amount":"0.003959693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677326615,
-      "blockNumber":16705174
-    }
-  },
-  "26":{
-    "sales":{
-      "transaction":{
-        "id":"0x45d1361aa9b9b1969833cd245e4cf61fefafd4d06bd2fd8a4f6259ee304ed393",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x9e53563dbfea80b39bf683b7d52df449a2b247e7"
-            },
-            "receiverAddress":{
-              "id":"0x0e3bcd1efd366092248ac733af93f57fdaba5a12"
-            },
-            "amount":"70.83673469387755102040816326530612",
-            "token":{
-              "collection":{
-                "symbol":"BAYC",
-                "name":"BoredApeYachtClub"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x0e3bcd1efd366092248ac733af93f57fdaba5a12"
-      },
-      "platform":"X2Y2",
-      "amount":"70.83673469387755102040816326530612",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677327335,
-      "blockNumber":16705234
-    }
-  },
-  "27":{
-    "sales":{
-      "transaction":{
-        "id":"0x0d0a1a5647113e235b62e817a08cc584851236fe0dc72ee321a055ff12cdac33",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x49a7e6e266563ad2b7c508e380807a09b8c00d6e"
-            },
-            "receiverAddress":{
-              "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
-            },
-            "amount":"0.8630102040816326530612244897959184",
-            "token":{
-              "collection":{
-                "symbol":null,
-                "name":null
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x613d3c588f6b8f89302b463f8f19f7241b2857e2"
-            },
-            "receiverAddress":{
-              "id":"0x53e6d4915ecddb3bd8c6cfbaad90a6085ca5e80c"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":null,
-                "name":null
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x53e6d4915ecddb3bd8c6cfbaad90a6085ca5e80c"
-      },
-      "platform":"X2Y2",
-      "amount":"0.8630102040816326530612244897959184",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677327503,
-      "blockNumber":16705248
-    }
-  },
-  "28":{
-    "sales":{
-      "transaction":{
-        "id":"0x560d9fffdf16fda5e94f530b9fe8757461497362bf11a55e8ae1e9a79d925f64",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xdf2c823e219a0c50b8fda1338936334003676811"
-            },
-            "receiverAddress":{
-              "id":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-            },
-            "amount":"0.068",
-            "token":{
-              "collection":{
-                "symbol":"EPASS",
-                "name":"EDUCATION PASSPORT NFT"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-      },
-      "platform":"LooksRare",
-      "amount":"0.068",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677327503,
-      "blockNumber":16705248
-    }
-  },
-  "29":{
-    "sales":{
-      "transaction":{
-        "id":"0x85b545b15e549f528fd82bde6a13f4f93b7d32139d7a99fb9501b046eaa6156f",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x55e712a70101028781af5007fdd05ea23f91e725"
-            },
-            "receiverAddress":{
-              "id":"0xd722755aa3d8b2e9521209ee5014d0e446b82ff5"
-            },
-            "amount":"0.495687383184493376",
-            "token":{
-              "collection":{
-                "symbol":"HWMC",
-                "name":"Hydro Whales Mining Club"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x55e712a70101028781af5007fdd05ea23f91e725"
-      },
-      "platform":"LooksRare",
-      "amount":"0.495687383184493376",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677328055,
-      "blockNumber":16705292
-    }
-  },
-  "30":{
-    "sales":{
-      "transaction":{
-        "id":"0xbb002f5d3dc6a570d8d6b058fe04399ae8af7431254f9a3cad8ed797e55b9a52",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x064f5692b711fe69cc10ef3848ba659b8b6dcefa"
-            },
-            "receiverAddress":{
-              "id":"0xe04a058c8bdd33fbaa973ef129deffd63a606348"
-            },
-            "amount":"0.8163265306122448979591836734693878",
-            "token":{
-              "collection":{
-                "symbol":"FUNK",
-                "name":"Funkari"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe04a058c8bdd33fbaa973ef129deffd63a606348"
-      },
-      "platform":"X2Y2",
-      "amount":"0.8163265306122448979591836734693878",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677328127,
-      "blockNumber":16705298
-    }
-  },
-  "31":{
-    "sales":{
-      "transaction":{
-        "id":"0x6e67730ad7a29f3b718ea27c761aba0455f444b7e68dcb1c3611982360223f35",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xddd2db7102ca2aae9f4163c6dc44c9d78be6a5bc"
-            },
-            "receiverAddress":{
-              "id":"0x33bd8d5a4f40285df90694ccb29d6f5859c3977e"
-            },
-            "amount":"0.02359693877551020408163265306122449",
-            "token":{
-              "collection":{
-                "symbol":"DEMI",
-                "name":"DemiHuman"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x33bd8d5a4f40285df90694ccb29d6f5859c3977e"
-      },
-      "platform":"X2Y2",
-      "amount":"0.02359693877551020408163265306122449",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677328163,
-      "blockNumber":16705301
-    }
-  },
-  "32":{
-    "sales":{
-      "transaction":{
-        "id":"0xed4d8ede5bf7268083178313ea71c67e18dcac9832e85047bd0762aa038661a0",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x55e712a70101028781af5007fdd05ea23f91e725"
-            },
-            "receiverAddress":{
-              "id":"0xac37ccb7ae873555eb01c74cb713d40d1bec7f45"
-            },
-            "amount":"0.446",
-            "token":{
-              "collection":{
-                "symbol":"HWMC",
-                "name":"Hydro Whales Mining Club"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x55e712a70101028781af5007fdd05ea23f91e725"
-      },
-      "platform":"LooksRare",
-      "amount":"0.446",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677328175,
-      "blockNumber":16705302
-    }
-  },
-  "33":{
-    "sales":{
-      "transaction":{
-        "id":"0xfffc28cbeacee80b06f3d2465d358899a39aaddec35ac4a7c29380cd2de1c863",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xdf2c823e219a0c50b8fda1338936334003676811"
-            },
-            "receiverAddress":{
-              "id":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-            },
-            "amount":"0.068",
-            "token":{
-              "collection":{
-                "symbol":"EPASS",
-                "name":"EDUCATION PASSPORT NFT"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x957913b5aafc0fef76d089073de2f87f71bacc75"
-      },
-      "platform":"LooksRare",
-      "amount":"0.068",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677328907,
-      "blockNumber":16705362
-    }
-  },
-  "34":{
-    "sales":{
-      "transaction":{
-        "id":"0x3c470030ab6693241628dad9219853ca1061065ae8f567b62569cba08abbd5c1",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xacd37800e67ce9a35bf6cef176be1303d73f8f29"
-            },
-            "receiverAddress":{
-              "id":"0x4c689018d571302001ba9e41cb7c1546fd0a434b"
-            },
-            "amount":"0.06632653061224489795918367346938776",
-            "token":{
-              "collection":{
-                "symbol":"CNRS",
-                "name":"The Connors"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x4c689018d571302001ba9e41cb7c1546fd0a434b"
-      },
-      "platform":"X2Y2",
-      "amount":"0.06632653061224489795918367346938776",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677329411,
-      "blockNumber":16705404
-    }
-  },
-  "35":{
-    "sales":{
-      "transaction":{
-        "id":"0xa95f5dcf97d0d2731a04d5b3c2f08458eb4f91213dfb946188d745661d9c5489",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xb13cd86cf9bd6360cb83e2304c40a14d725e5da4"
-            },
-            "receiverAddress":{
-              "id":"0xe8b1acada69ccf8b5109ce7afc8a580873825c46"
-            },
-            "amount":"0.07614795918367346938775510204081633",
-            "token":{
-              "collection":{
-                "symbol":"KNDL",
-                "name":"KNDL by KEVIN ABOSCH"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe8b1acada69ccf8b5109ce7afc8a580873825c46"
-      },
-      "platform":"X2Y2",
-      "amount":"0.07614795918367346938775510204081633",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677329855,
-      "blockNumber":16705439
-    }
-  },
-  "36":{
-    "sales":{
-      "transaction":{
-        "id":"0x6436cdd2bf0add8d732b5400999afa177acac8495635a361da2ea8432a20f5d1",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8a1b0379e31bc4642f3d63e0c56f39753d4caafb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.15",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-            },
-            "amount":"0.075",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x8a1b0379e31bc4642f3d63e0c56f39753d4caafb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.075",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-      },
-      "platform":"LooksRare",
-      "amount":"0.15",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677330035,
-      "blockNumber":16705454
-    }
-  },
-  "37":{
-    "sales":{
-      "transaction":{
-        "id":"0x6436cdd2bf0add8d732b5400999afa177acac8495635a361da2ea8432a20f5d1",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x8a1b0379e31bc4642f3d63e0c56f39753d4caafb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.15",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-            },
-            "amount":"0.075",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x8a1b0379e31bc4642f3d63e0c56f39753d4caafb"
-            },
-            "receiverAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "amount":"0.075",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x39da41747a83aee658334415666f3ef92dd0d541"
-            },
-            "receiverAddress":{
-              "id":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"DAW",
-                "name":"Desperate ApeWives"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xd138dac26f780c6e8b28931f3e05b53184624184"
-      },
-      "platform":"LooksRare",
-      "amount":"0.15",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677330035,
-      "blockNumber":16705454
-    }
-  },
-  "38":{
-    "sales":{
-      "transaction":{
-        "id":"0x1d9e07f4f022fabfa9d219be5702f75a441d4a684171dd6227cc1387b9cbedc9",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xdf2c823e219a0c50b8fda1338936334003676811"
-            },
-            "receiverAddress":{
-              "id":"0xbe4a67a7da7cb2640b1aa8ba6c5056095b3cda98"
-            },
-            "amount":"0.068",
-            "token":{
-              "collection":{
-                "symbol":"EPASS",
-                "name":"EDUCATION PASSPORT NFT"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xbe4a67a7da7cb2640b1aa8ba6c5056095b3cda98"
-      },
-      "platform":"LooksRare",
-      "amount":"0.068",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677330131,
-      "blockNumber":16705462
-    }
-  },
-  "39":{
-    "sales":{
-      "transaction":{
-        "id":"0xfbe4dd486b87e8565bcb2bbf4b5b9f9134beefbfa677d990141329d279b1bae8",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xb2c053e5c722c860f2d5ca956d54ebfeb7c8ddf6"
-            },
-            "receiverAddress":{
-              "id":"0x625ec8214f1320994b3b6467813b307b1e9376f2"
-            },
-            "amount":"0.08122448979591836734693877551020408",
-            "token":{
-              "collection":{
-                "symbol":"KDROY",
-                "name":"Kult Dolce Royals"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x625ec8214f1320994b3b6467813b307b1e9376f2"
-      },
-      "platform":"X2Y2",
-      "amount":"0.08122448979591836734693877551020408",
-      "currency":{
-        "name":"Ether",
-        "symbol":"ETH"
-      },
-      "timestamp":1677330611,
-      "blockNumber":16705502
-    }
-  },
-  "40":{
-    "sales":{
-      "transaction":{
-        "id":"0x1a979eaef9663dd19910e3945c4013e036df9179a9126161eca6a5e6303b6e42",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0xa9e9cb53470fc8c38c17ccca1e1e6f22be29f594"
-            },
-            "receiverAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "amount":"0.197999",
-            "token":{
-              "collection":{
-                "symbol":"LAND",
-                "name":"Land"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x385df8cbc196f5f780367f3cdc96af072a916f7e"
-            },
-            "receiverAddress":{
-              "id":"0xe7003386e12dd2915639a8a6a017fce86b388d21"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"LAND",
-                "name":"Land"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0xe7003386e12dd2915639a8a6a017fce86b388d21"
-      },
-      "platform":"LooksRare",
-      "amount":"0.197999",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677330779,
-      "blockNumber":16705516
-    }
-  },
-  "41":{
-    "sales":{
-      "transaction":{
-        "id":"0x7b80c16210943941b926a352b6182c7655c0889d878f7d4762d370aa5c3ac882",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x5aa2ec7b7754b161bf99e62bf8d077ec1e5d7de1"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe377fdec2aa66c76ddb66c32439be4200dc113ac"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe377fdec2aa66c76ddb66c32439be4200dc113ac"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.035",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-      },
-      "platform":"LooksRare",
-      "amount":"0.035",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677331991,
-      "blockNumber":16705617
-    }
-  },
-  "42":{
-    "sales":{
-      "transaction":{
-        "id":"0x7b80c16210943941b926a352b6182c7655c0889d878f7d4762d370aa5c3ac882",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x5aa2ec7b7754b161bf99e62bf8d077ec1e5d7de1"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe377fdec2aa66c76ddb66c32439be4200dc113ac"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.01166666666666666666666666666666667",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "receiverAddress":{
-              "id":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-            },
-            "amount":"0",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          },
-          {
-            "senderAddress":{
-              "id":"0xe377fdec2aa66c76ddb66c32439be4200dc113ac"
-            },
-            "receiverAddress":{
-              "id":"0x114e54a100a0415abf9727234c92c83dbcc59abf"
-            },
-            "amount":"0.035",
-            "token":{
-              "collection":{
-                "symbol":"CWW",
-                "name":"CryptowalkersWeapons"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x205c4d9d198a2e9d74eee70151d1ba02f3c70daa"
-      },
-      "platform":"LooksRare",
-      "amount":"0.035",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677331991,
-      "blockNumber":16705617
-    }
-  },
-  "43":{
-    "sales":{
-      "transaction":{
-        "id":"0xcbdc24c11baa1203b261e6f0d9a7dfee8cb98fbe0525e12340194a40c18c36d3",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x812faac0c8221446375e5a57d123eff45981e577"
-            },
-            "receiverAddress":{
-              "id":"0x416a2ade3513fff71ed81e6b6cbc3c34015d74fc"
-            },
-            "amount":"0.06",
-            "token":{
-              "collection":{
-                "symbol":"TP",
-                "name":"TransparentPowers"
-              }
-            }
-          }
-        ],
-        "transactionFrom":"0x416a2ade3513fff71ed81e6b6cbc3c34015d74fc"
-      },
-      "platform":"LooksRare",
-      "amount":"0.06",
-      "currency":{
-        "name":"Wrapped Ether",
-        "symbol":"WETH"
-      },
-      "timestamp":1677332111,
-      "blockNumber":16705627
-    }
-  },
-  "44":{
-    "sales":{
-      "transaction":{
-        "id":"0xc5a8798784249308cbe69b7d6b6f79bc1289f7b39dd01dc4c91de94ec3e81094",
-        "transfers":[
-          {
-            "senderAddress":{
-              "id":"0x7c76cf8894d42ed11b53236da54f05add1d44073"
-            },
-            "receiverAddress":{
-              "id":"0xa099ec99966fa615c29b1ec56ce403fe655bca40"
-            },
-            "amount":"3.489795918367346938775510204081633",
+            "amount":"1.938775510204081632653061224489796",
             "token":{
               "collection":{
                 "symbol":"SMTH",
@@ -1772,16 +689,418 @@
             }
           }
         ],
-        "transactionFrom":"0xa099ec99966fa615c29b1ec56ce403fe655bca40"
+        "transactionFrom":"0xc216bf3423bc19a03b06f1e5bc9e4f00d0e806c2"
       },
       "platform":"X2Y2",
-      "amount":"3.489795918367346938775510204081633",
+      "amount":"1.938775510204081632653061224489796",
       "currency":{
         "name":"Ether",
         "symbol":"ETH"
       },
-      "timestamp":1677332435,
-      "blockNumber":16705654
+      "timestamp":1677356627,
+      "blockNumber":16707640
+    }
+  },
+  "19":{
+    "sales":{
+      "transaction":{
+        "id":"0x43678957503de317018f10054f1bf78a124ddedd178e7a5f8c3bbbf76fa6be53",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xa1c2ff024c313088ac9ec47ec68c67b2b5478035"
+            },
+            "receiverAddress":{
+              "id":"0xaf6376e68437ee82d1e0e47ae9c217f35681074c"
+            },
+            "amount":"0.142",
+            "token":{
+              "collection":{
+                "symbol":"FRGMT",
+                "name":"Fragments By James Jean"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xa1c2ff024c313088ac9ec47ec68c67b2b5478035"
+      },
+      "platform":"LooksRare",
+      "amount":"0.142",
+      "currency":{
+        "name":"Wrapped Ether",
+        "symbol":"WETH"
+      },
+      "timestamp":1677356819,
+      "blockNumber":16707656
+    }
+  },
+  "20":{
+    "sales":{
+      "transaction":{
+        "id":"0x6696311bfa1d3463723dc3ba04c1cab0357ec01dabd135709d201161433ff1ac",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xf2f13e9aff5558fe7a10bbd5e3ab8d1f0459df9e"
+            },
+            "receiverAddress":{
+              "id":"0x01f8c80533bf12698e84477938244311fe512045"
+            },
+            "amount":"0.01005153061224489795918367346938776",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x01f8c80533bf12698e84477938244311fe512045"
+      },
+      "platform":"X2Y2",
+      "amount":"0.01005153061224489795918367346938776",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357251,
+      "blockNumber":16707692
+    }
+  },
+  "21":{
+    "sales":{
+      "transaction":{
+        "id":"0x33e08bdf7228819b90da31cb891656310c7b24b2524f960b381442b0a57fc37d",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xc261c472a5fea6f1002da278d55d2d4463f000ef"
+            },
+            "receiverAddress":{
+              "id":"0x8887addcca75259e77310a682b0829d53cd6cf9b"
+            },
+            "amount":"0.04146428571428571428571428571428571",
+            "token":{
+              "collection":{
+                "symbol":"MM",
+                "name":"MechMinds"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x8887addcca75259e77310a682b0829d53cd6cf9b"
+      },
+      "platform":"X2Y2",
+      "amount":"0.04146428571428571428571428571428571",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357371,
+      "blockNumber":16707702
+    }
+  },
+  "22":{
+    "sales":{
+      "transaction":{
+        "id":"0x5c61373d2b6345ff36494d389c015b424903f9e1e6278f1bdac8019c9b1735f7",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xf2f13e9aff5558fe7a10bbd5e3ab8d1f0459df9e"
+            },
+            "receiverAddress":{
+              "id":"0x59ba06f64628f2de93c4b080f821b42e2624c2a2"
+            },
+            "amount":"0.01005153061224489795918367346938776",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x59ba06f64628f2de93c4b080f821b42e2624c2a2"
+      },
+      "platform":"X2Y2",
+      "amount":"0.01005153061224489795918367346938776",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357395,
+      "blockNumber":16707704
+    }
+  },
+  "23":{
+    "sales":{
+      "transaction":{
+        "id":"0x649b76183e4682ea851b91ab66d75e446c2b8f5efa52ed17c5f404e2072241f0",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xd50a805a547ed4f8da3602615e77ab9281a0560a"
+            },
+            "receiverAddress":{
+              "id":"0x119ad5c457c50cb5b80df19b72d22bc9b804da76"
+            },
+            "amount":"0.01045765306122448979591836734693878",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x119ad5c457c50cb5b80df19b72d22bc9b804da76"
+      },
+      "platform":"X2Y2",
+      "amount":"0.01045765306122448979591836734693878",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357527,
+      "blockNumber":16707714
+    }
+  },
+  "24":{
+    "sales":{
+      "transaction":{
+        "id":"0x1f41c3bd1d65aec813142f6b6a39cd2e655287451cf169e771f19cda1fca26e4",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xc2d118a11cce453ac65310c80286594228bbaf1d"
+            },
+            "receiverAddress":{
+              "id":"0xd2498b4dc8402789736f7c94caf969ea65badfa2"
+            },
+            "amount":"6.122448979591836734693877551020408",
+            "token":{
+              "collection":{
+                "symbol":"PPG",
+                "name":"PudgyPenguins"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xd2498b4dc8402789736f7c94caf969ea65badfa2"
+      },
+      "platform":"X2Y2",
+      "amount":"6.122448979591836734693877551020408",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357815,
+      "blockNumber":16707738
+    }
+  },
+  "25":{
+    "sales":{
+      "transaction":{
+        "id":"0xa3e034ab970feb562b729660568a08c92ef317f3a723ac29798ceebc97daa68d",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xc261c472a5fea6f1002da278d55d2d4463f000ef"
+            },
+            "receiverAddress":{
+              "id":"0xfffa889f71003f256f0e14b48e54fa2dad1f2ff0"
+            },
+            "amount":"0.04098214285714285714285714285714286",
+            "token":{
+              "collection":{
+                "symbol":"MM",
+                "name":"MechMinds"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xfffa889f71003f256f0e14b48e54fa2dad1f2ff0"
+      },
+      "platform":"X2Y2",
+      "amount":"0.04098214285714285714285714285714286",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357839,
+      "blockNumber":16707740
+    }
+  },
+  "26":{
+    "sales":{
+      "transaction":{
+        "id":"0x16ffd999d975ae0bfd093920b009ac4f14b62e5bdd4761bb233ede11ae82d33d",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0xf2f13e9aff5558fe7a10bbd5e3ab8d1f0459df9e"
+            },
+            "receiverAddress":{
+              "id":"0xf7c5db97cabc4b4d37f5e5846a4d32f7259531b2"
+            },
+            "amount":"0.01005153061224489795918367346938776",
+            "token":{
+              "collection":{
+                "symbol":"SLK",
+                "name":"SHYLOCK"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0xf7c5db97cabc4b4d37f5e5846a4d32f7259531b2"
+      },
+      "platform":"X2Y2",
+      "amount":"0.01005153061224489795918367346938776",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677357875,
+      "blockNumber":16707743
+    }
+  },
+  "27":{
+    "sales":{
+      "transaction":{
+        "id":"0x599682ce234e6317bcade677ae2d0575c4a949627136901422521d2e767a78d0",
+        "transfers":[
+          {
+            "senderAddress":{
+              "id":"0x85bf07d67ee8507e8ea3c8194eac7b3960087b50"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xc1d69d775e7bc20a3b0fc1f31ddc5b2295c844d3"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xc1d69d775e7bc20a3b0fc1f31ddc5b2295c844d3"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xa3246acc55c418af524b4a60c5f5cbe565bde6d7"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0x7b9d9cd877784d19a0977aedb9f8697bf7aaad9e"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xf6f9fa6a391873b41119ebaa2c803b62e7a0e3b3"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0xea2d97ce7c18cf20613ed8eee4d0f1a8b4493368"
+            },
+            "receiverAddress":{
+              "id":"0x9c049c5a973e9637cdf5f7c31b93ec074161d2fe"
+            },
+            "amount":"0.00344387755102040816326530612244898",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          },
+          {
+            "senderAddress":{
+              "id":"0x9c049c5a973e9637cdf5f7c31b93ec074161d2fe"
+            },
+            "receiverAddress":{
+              "id":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+            },
+            "amount":"0",
+            "token":{
+              "collection":{
+                "symbol":"UNK",
+                "name":"Unknown Society"
+              }
+            }
+          }
+        ],
+        "transactionFrom":"0x79f23c9cfe5f0c9a34ce68f54036ebc7140a6fba"
+      },
+      "platform":"X2Y2",
+      "amount":"0.02410714285714285714285714285714286",
+      "currency":{
+        "name":"Ether",
+        "symbol":"ETH"
+      },
+      "timestamp":1677358055,
+      "blockNumber":16707758
     }
   }
 }
