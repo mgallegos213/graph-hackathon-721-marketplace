@@ -10,4 +10,5 @@ This is a hackathon project that utilizes the ERC-721 Marketplace Subgraph creat
 The subgraph monitors and indexes all ERC-721 transactions across OpenSea, X2Y2, and LooksRare
 Marketplace Explorer: https://thegraph.com/explorer/subgraphs/B333F7Ra4kuVBSwHFDfH9x9N1341GYHvdfpV94KY8Gmv
 
-Unfortunately it seems that OpenSea recently migrated to their new SeaPort contract, so additional support is needed.
+Unfortunately it seems that OpenSea recently migrated to their new SeaPort contract, so additional support
+was added via a separate subgraph call.

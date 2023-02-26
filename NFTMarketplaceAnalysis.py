@@ -55,7 +55,43 @@ for filename in os.listdir('data/'):
                 'transactionID': transaction_id,
                 'senderAddress': sender_address,
                 'receiverAddress': receiver_address,
-                'collection symbol/name': collection_symbol,
+                'collection': collection_symbol,
+                'platform': platform,
+                'currency symbol': currency_symbol,
+                'amount': amount,
+                'timestamp': timestamp,
+                'date': date
+            })
+
+# Now do the same with the OpenSea Seaport contract data
+for filename in os.listdir('openSeaData/'):
+    if filename.endswith('.json'):
+        # open the JSON file
+        with open(os.path.join('openSeaData/', filename), 'r') as f:
+            json_data = json.load(f)
+        
+        # loop through each item in the JSON file
+        for item_key in json_data.keys():
+            item = json_data[item_key]
+            
+            # extract the relevant data from the nested structure
+            transaction_id = item['trades']['transactionHash']
+            sender_address = item['trades']['seller']
+            receiver_address = item['trades']['buyer']
+            collection_symbol = item['trades']['collection']['name']
+            platform = 'OpenSea'
+            currency_symbol = 'ETH'
+            amount = item['trades']['priceETH']
+            timestamp = int(item['trades']['timestamp'])
+            
+            date = datetime.fromtimestamp(timestamp).date()
+            
+            # create a dictionary with the extracted data and append it to the cleaned data list
+            cleaned_data.append({
+                'transactionID': transaction_id,
+                'senderAddress': sender_address,
+                'receiverAddress': receiver_address,
+                'collection': collection_symbol,
                 'platform': platform,
                 'currency symbol': currency_symbol,
                 'amount': amount,
