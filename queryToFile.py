@@ -59,7 +59,7 @@ for i in range(16708664, 16658664, -300):
     # print("query: " + salesPerThousandBlocksQuery)
 
     urlGateway = 'https://gateway.thegraph.com/api/'
-    apiKey = '51d7a63c993112346960cd6c837faa11' # REPLACE THIS WITH YOUR OWN API KEY
+    apiKey = 'MYKEY' # REPLACE THIS WITH YOUR OWN API KEY
     urlRoute = '/subgraphs/id/B333F7Ra4kuVBSwHFDfH9x9N1341GYHvdfpV94KY8Gmv'
     url = urlGateway + apiKey + urlRoute
     r = requests.post(url, json={'query': salesPerThousandBlocksQuery})
