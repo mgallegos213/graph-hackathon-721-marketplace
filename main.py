@@ -22,7 +22,7 @@ import pandas as pd
 # Do steps of 1000 blocks, first 100 per that thousand as per the Graph's query limit
 # Should hit 50 times, meaning about a week of
 fileCounter = 0;
-for i in range(10000000, 9950000, -1000):
+for i in range(16708664, 16658664, -1000):
     salesPerThousandBlocksQuery = f"""
     {{
         sales(first: 100, where: {{ blockNumber_lte: {i}, blockNumber_gte: {i-1000} }}) {{
@@ -69,5 +69,5 @@ for i in range(10000000, 9950000, -1000):
     json_data = json.loads(r.text)
     df_data = json_data['data']
     df = pd.DataFrame(df_data)
-    df.to_json(r'./data/transactionSalesData' + str(fileCounter) + '.json', orient='index', indent=2)
+    df.to_json(r'./data/transactionSalesDataUpdatedBlockNumbers' + str(fileCounter) + '.json', orient='index', indent=2)
     fileCounter += 1
